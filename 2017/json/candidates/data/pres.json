@@ -1,0 +1,82 @@
+[
+    {
+        "Abbrv": "TAK",
+        "No": "1",
+        "Other Names": "John Ekuru Longoggy",
+        "Party Code": "76",
+        "Political Party Name": "Thirdway Alliance Kenya",
+        "Running Mate Other Names": "Emmanuel Kombe",
+        "Running Mate Surname": "Nzai",
+        "Surname": "Aukot"
+    },
+    {
+        "Abbrv": "ARK",
+        "No": "2",
+        "Other Names": "Mohamed Abduba",
+        "Party Code": "55",
+        "Political Party Name": "Alliance for Real Change",
+        "Running Mate Other Names": "Titus Kusolo",
+        "Running Mate Surname": "Ngetuny",
+        "Surname": "Dida"
+    },
+    {
+        "Abbrv": "UDP",
+        "No": "3",
+        "Other Names": "Shakhalaga Khwa",
+        "Party Code": "64",
+        "Political Party Name": "United Democratic Party",
+        "Running Mate Other Names": "Joseph Orina",
+        "Running Mate Surname": "Momanyi",
+        "Surname": "Jirongo"
+    },
+    {
+        "Abbrv": "IND",
+        "No": "4",
+        "Other Names": "Japheth Kavinga",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Running Mate Other Names": "Muthiora Eliud",
+        "Running Mate Surname": "Kariara",
+        "Surname": "Kaluyu"
+    },
+    {
+        "Abbrv": "JP",
+        "No": "5",
+        "Other Names": "Uhuru",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Running Mate Other Names": "William Samoei",
+        "Running Mate Surname": "Ruto",
+        "Surname": "Kenyatta"
+    },
+    {
+        "Abbrv": "IND",
+        "No": "6",
+        "Other Names": "Michael Wainaina",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Running Mate Other Names": "Miriam Muthikwa",
+        "Running Mate Surname": "Mutua",
+        "Surname": "Mwaura"
+    },
+    {
+        "Abbrv": "IND",
+        "No": "7",
+        "Other Names": "Joseph William Nthiga",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Running Mate Other Names": "Moses Waswa",
+        "Running Mate Surname": "Marango",
+        "Surname": "Nyagah"
+    },
+    {
+        "Abbrv": "ODM",
+        "No": "8",
+        "Other Names": "Raila",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Running Mate Other Names": "Stephen  Kalonzo",
+        "Running Mate Surname": "Musyoka",
+        "Surname": "Odinga"
+    }
+]

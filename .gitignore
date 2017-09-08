@@ -1,0 +1,7 @@
+db/
+2013/raw/
+2013/compiled/geojson/data/
+2013/compiled/json/data/pollingstation-constituency.json
+2013/compiled/json/data/pollingstation-ward.json
+2017/csv/candidates/data/county-assembly-wards.csv
+2017/json/candidates/data/county-assembly-wards.json

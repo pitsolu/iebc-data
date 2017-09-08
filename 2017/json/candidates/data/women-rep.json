@@ -1,0 +1,2992 @@
+[
+    {
+        "Abbrv": "JP",
+        "County Code": "1",
+        "County Name": "Mombasa",
+        "No": "1",
+        "Other Names": "Amina",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Abdalla"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "1",
+        "County Name": "Mombasa",
+        "No": "2",
+        "Other Names": "Elizabeth Lydia",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Lubalo"
+    },
+    {
+        "Abbrv": "VDP",
+        "County Code": "1",
+        "County Name": "Mombasa",
+        "No": "3",
+        "Other Names": "Serah Mwikali",
+        "Party Code": "60",
+        "Political Party Name": "Vibrant Democratic Party",
+        "Surname": "Makau"
+    },
+    {
+        "Abbrv": "FORD-KENYA",
+        "County Code": "1",
+        "County Name": "Mombasa",
+        "No": "4",
+        "Other Names": "Mercy Mbithe",
+        "Party Code": "23",
+        "Political Party Name": "Forum for Restoration of Democracy - Kenya",
+        "Surname": "Maweu"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "1",
+        "County Name": "Mombasa",
+        "No": "5",
+        "Other Names": "Asha Hussein",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Mohamed"
+    },
+    {
+        "Abbrv": "WDM-K",
+        "County Code": "1",
+        "County Name": "Mombasa",
+        "No": "6",
+        "Other Names": "Zamzam Chimba",
+        "Party Code": "12",
+        "Political Party Name": "Wiper Democratic Movement - Kenya",
+        "Surname": "Mohamed"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "1",
+        "County Name": "Mombasa",
+        "No": "7",
+        "Other Names": "Halima Anwar",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Mohammed"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "1",
+        "County Name": "Mombasa",
+        "No": "8",
+        "Other Names": "Khadija Abdalla",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Muhsin"
+    },
+    {
+        "Abbrv": "ANC",
+        "County Code": "1",
+        "County Name": "Mombasa",
+        "No": "9",
+        "Other Names": "Zipporah Tabu",
+        "Party Code": "62",
+        "Political Party Name": "Amani National Congress",
+        "Surname": "Obura"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "1",
+        "County Name": "Mombasa",
+        "No": "10",
+        "Other Names": "Afiya Mkuwewa",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Rama"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "2",
+        "County Name": "Kwale",
+        "No": "11",
+        "Other Names": "Zainab Kalekye",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Chidzuga"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "2",
+        "County Name": "Kwale",
+        "No": "12",
+        "Other Names": "Zuleikha Ju Ma",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Hassan"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "2",
+        "County Name": "Kwale",
+        "No": "13",
+        "Other Names": "Ann Wanjiko",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Mburu"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "2",
+        "County Name": "Kwale",
+        "No": "14",
+        "Other Names": "Mwanalima",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Mwapheku"
+    },
+    {
+        "Abbrv": "PDR",
+        "County Code": "2",
+        "County Name": "Kwale",
+        "No": "15",
+        "Other Names": "Fatuma Suleiman",
+        "Party Code": "15",
+        "Political Party Name": "Party for Development and Reform",
+        "Surname": "Tabwara"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "3",
+        "County Name": "Kilifi",
+        "No": "16",
+        "Other Names": "Ummi Kulthum Amin",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Athman"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "3",
+        "County Name": "Kilifi",
+        "No": "17",
+        "Other Names": "Juliet Riziki",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Baya"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "3",
+        "County Name": "Kilifi",
+        "No": "18",
+        "Other Names": "Josephine Chizi",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Bebora"
+    },
+    {
+        "Abbrv": "FPK",
+        "County Code": "3",
+        "County Name": "Kilifi",
+        "No": "19",
+        "Other Names": "Gertrude Bahati",
+        "Party Code": "49",
+        "Political Party Name": "Federal Party of Kenya",
+        "Surname": "Charo"
+    },
+    {
+        "Abbrv": "KADU-ASILI",
+        "County Code": "3",
+        "County Name": "Kilifi",
+        "No": "20",
+        "Other Names": "Witness Nyevu",
+        "Party Code": "30",
+        "Political Party Name": "Kenya African Democratic Union - Asili",
+        "Surname": "Kambi"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "3",
+        "County Name": "Kilifi",
+        "No": "21",
+        "Other Names": "Betty Medza Munga",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Kitsao"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "3",
+        "County Name": "Kilifi",
+        "No": "22",
+        "Other Names": "Amina Laura",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Mnyazi"
+    },
+    {
+        "Abbrv": "WDM-K",
+        "County Code": "3",
+        "County Name": "Kilifi",
+        "No": "23",
+        "Other Names": "Priscillar Nzikwa",
+        "Party Code": "12",
+        "Political Party Name": "Wiper Democratic Movement - Kenya",
+        "Surname": "Mungah"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "3",
+        "County Name": "Kilifi",
+        "No": "24",
+        "Other Names": "Gertrude Mbeyu",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Mwanyanje"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "4",
+        "County Name": "Tana River",
+        "No": "25",
+        "Other Names": "Amina Nuria",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Abdullahi"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "4",
+        "County Name": "Tana River",
+        "No": "26",
+        "Other Names": "Alfelt Mumbo",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Abio"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "4",
+        "County Name": "Tana River",
+        "No": "27",
+        "Other Names": "Halima Ware",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Duri"
+    },
+    {
+        "Abbrv": "ANC",
+        "County Code": "4",
+        "County Name": "Tana River",
+        "No": "28",
+        "Other Names": "Melisa Nkondo",
+        "Party Code": "62",
+        "Political Party Name": "Amani National Congress",
+        "Surname": "Hadida"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "4",
+        "County Name": "Tana River",
+        "No": "29",
+        "Other Names": "Rehema",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Hassan"
+    },
+    {
+        "Abbrv": "WDM-K",
+        "County Code": "4",
+        "County Name": "Tana River",
+        "No": "30",
+        "Other Names": "Sadia Sango",
+        "Party Code": "12",
+        "Political Party Name": "Wiper Democratic Movement - Kenya",
+        "Surname": "Hussein"
+    },
+    {
+        "Abbrv": "FORD-KENYA",
+        "County Code": "4",
+        "County Name": "Tana River",
+        "No": "31",
+        "Other Names": "Maryanroon Mohamed",
+        "Party Code": "23",
+        "Political Party Name": "Forum for Restoration of Democracy - Kenya",
+        "Surname": "Jelle"
+    },
+    {
+        "Abbrv": "NARC-\nKENYA",
+        "County Code": "4",
+        "County Name": "Tana River",
+        "No": "32",
+        "Other Names": "Saddia Halima",
+        "Party Code": "1",
+        "Political Party Name": "National Rainbow Coalition - Kenya",
+        "Surname": "Koro"
+    },
+    {
+        "Abbrv": "KPP",
+        "County Code": "4",
+        "County Name": "Tana River",
+        "No": "33",
+        "Other Names": "Rukia Abdi",
+        "Party Code": "31",
+        "Political Party Name": "Kenya Patriots Party",
+        "Surname": "Mohamed"
+    },
+    {
+        "Abbrv": "MGPK",
+        "County Code": "4",
+        "County Name": "Tana River",
+        "No": "34",
+        "Other Names": "Zamzam Zainab",
+        "Party Code": "10",
+        "Political Party Name": "Mazingira Greens Party of Kenya",
+        "Surname": "Soba"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "5",
+        "County Name": "Lamu",
+        "No": "35",
+        "Other Names": "Esha Nizar",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Abdalla"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "5",
+        "County Name": "Lamu",
+        "No": "36",
+        "Other Names": "Mariyam Abubakar",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Abdalla"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "5",
+        "County Name": "Lamu",
+        "No": "37",
+        "Other Names": "Monicah Muthoni",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Marubu"
+    },
+    {
+        "Abbrv": "WDM-K",
+        "County Code": "5",
+        "County Name": "Lamu",
+        "No": "38",
+        "Other Names": "Shakila Abdalla",
+        "Party Code": "12",
+        "Political Party Name": "Wiper Democratic Movement - Kenya",
+        "Surname": "Mohamed"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "5",
+        "County Name": "Lamu",
+        "No": "39",
+        "Other Names": "Ruweida Mohamed",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Obo"
+    },
+    {
+        "Abbrv": "SDP",
+        "County Code": "6",
+        "County Name": "Taita Taveta",
+        "No": "40",
+        "Other Names": "Rosina Mghoi",
+        "Party Code": "32",
+        "Political Party Name": "Social Democratic Party of Kenya",
+        "Surname": "Kisochi"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "6",
+        "County Name": "Taita Taveta",
+        "No": "41",
+        "Other Names": "Lydia Haika Mnene",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Mizighi"
+    },
+    {
+        "Abbrv": "WDM-K",
+        "County Code": "6",
+        "County Name": "Taita Taveta",
+        "No": "42",
+        "Other Names": "Pricilar",
+        "Party Code": "12",
+        "Political Party Name": "Wiper Democratic Movement - Kenya",
+        "Surname": "Mwadime"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "6",
+        "County Name": "Taita Taveta",
+        "No": "43",
+        "Other Names": "Hope Anisa Sanguli",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Mwakio"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "7",
+        "County Name": "Garissa",
+        "No": "44",
+        "Other Names": "Fatuma Kinsi",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Abass"
+    },
+    {
+        "Abbrv": "TAK",
+        "County Code": "7",
+        "County Name": "Garissa",
+        "No": "45",
+        "Other Names": "Maryan Sheikh",
+        "Party Code": "76",
+        "Political Party Name": "Thirdway Alliance Kenya",
+        "Surname": "Abdikadir"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "7",
+        "County Name": "Garissa",
+        "No": "46",
+        "Other Names": "Anab Mohamed",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Gure"
+    },
+    {
+        "Abbrv": "WDM-K",
+        "County Code": "7",
+        "County Name": "Garissa",
+        "No": "47",
+        "Other Names": "Shukra Hussein",
+        "Party Code": "12",
+        "Political Party Name": "Wiper Democratic Movement - Kenya",
+        "Surname": "Gure"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "7",
+        "County Name": "Garissa",
+        "No": "48",
+        "Other Names": "Amina Mohamed",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Keinan"
+    },
+    {
+        "Abbrv": "FORD-KENYA",
+        "County Code": "7",
+        "County Name": "Garissa",
+        "No": "49",
+        "Other Names": "Ebla Europe",
+        "Party Code": "23",
+        "Political Party Name": "Forum for Restoration of Democracy - Kenya",
+        "Surname": "Sahal"
+    },
+    {
+        "Abbrv": "PDR",
+        "County Code": "8",
+        "County Name": "Wajir",
+        "No": "50",
+        "Other Names": "Fatuma Gedi",
+        "Party Code": "15",
+        "Political Party Name": "Party for Development and Reform",
+        "Surname": "Ali"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "8",
+        "County Name": "Wajir",
+        "No": "51",
+        "Other Names": "Barey Diis",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Bulle"
+    },
+    {
+        "Abbrv": "KPP",
+        "County Code": "8",
+        "County Name": "Wajir",
+        "No": "52",
+        "Other Names": "Katra Mowlid",
+        "Party Code": "31",
+        "Political Party Name": "Kenya Patriots Party",
+        "Surname": "Haji"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "8",
+        "County Name": "Wajir",
+        "No": "53",
+        "Other Names": "Oray Adan",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Hussein"
+    },
+    {
+        "Abbrv": "TAK",
+        "County Code": "8",
+        "County Name": "Wajir",
+        "No": "54",
+        "Other Names": "Ubah Abdi",
+        "Party Code": "76",
+        "Political Party Name": "Thirdway Alliance Kenya",
+        "Surname": "Kahiye"
+    },
+    {
+        "Abbrv": "FPK",
+        "County Code": "8",
+        "County Name": "Wajir",
+        "No": "55",
+        "Other Names": "Farhiya Abdille",
+        "Party Code": "49",
+        "Political Party Name": "Federal Party of Kenya",
+        "Surname": "Maalim"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "8",
+        "County Name": "Wajir",
+        "No": "56",
+        "Other Names": "Halima Abdille",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Mohamud"
+    },
+    {
+        "Abbrv": "FORD-KENYA",
+        "County Code": "8",
+        "County Name": "Wajir",
+        "No": "57",
+        "Other Names": "Halima Ali",
+        "Party Code": "23",
+        "Political Party Name": "Forum for Restoration of Democracy - Kenya",
+        "Surname": "Omar"
+    },
+    {
+        "Abbrv": "PDR",
+        "County Code": "9",
+        "County Name": "Mandera",
+        "No": "58",
+        "Other Names": "Amina Hassan",
+        "Party Code": "15",
+        "Political Party Name": "Party for Development and Reform",
+        "Surname": "Ahmed"
+    },
+    {
+        "Abbrv": "EFP",
+        "County Code": "9",
+        "County Name": "Mandera",
+        "No": "59",
+        "Other Names": "Amina Gedow",
+        "Party Code": "48",
+        "Political Party Name": "Economic Freedom Party",
+        "Surname": "Hassan"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "9",
+        "County Name": "Mandera",
+        "No": "60",
+        "Other Names": "Ethila Mohamud",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Issak"
+    },
+    {
+        "Abbrv": "DP",
+        "County Code": "10",
+        "County Name": "Marsabit",
+        "No": "61",
+        "Other Names": "Farhiya Yarow",
+        "Party Code": "13",
+        "Political Party Name": "Democratic Party of Kenya",
+        "Surname": "Abdi"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "10",
+        "County Name": "Marsabit",
+        "No": "62",
+        "Other Names": "Safia Sheikh",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Adan"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "10",
+        "County Name": "Marsabit",
+        "No": "63",
+        "Other Names": "Amina Guyo",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Halake"
+    },
+    {
+        "Abbrv": "FAP",
+        "County Code": "10",
+        "County Name": "Marsabit",
+        "No": "64",
+        "Other Names": "Nasra Ibrahim",
+        "Party Code": "46",
+        "Political Party Name": "Frontier Alliance Party",
+        "Surname": "Ibren"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "10",
+        "County Name": "Marsabit",
+        "No": "65",
+        "Other Names": "Elizabeth Pius",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Pantoren"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "10",
+        "County Name": "Marsabit",
+        "No": "66",
+        "Other Names": "Christine Koreya",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Seyere"
+    },
+    {
+        "Abbrv": "PNU",
+        "County Code": "10",
+        "County Name": "Marsabit",
+        "No": "67",
+        "Other Names": "Bernadetta Okotu",
+        "Party Code": "14",
+        "Political Party Name": "Party of National Unity",
+        "Surname": "Shama"
+    },
+    {
+        "Abbrv": "WDM-K",
+        "County Code": "11",
+        "County Name": "Isiolo",
+        "No": "68",
+        "Other Names": "Nasibo Hawa",
+        "Party Code": "12",
+        "Political Party Name": "Wiper Democratic Movement - Kenya",
+        "Surname": "Abdirahman"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "11",
+        "County Name": "Isiolo",
+        "No": "69",
+        "Other Names": "Tiyah Galgalo",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Ali"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "11",
+        "County Name": "Isiolo",
+        "No": "70",
+        "Other Names": "Rehema Dida",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Jaldesa"
+    },
+    {
+        "Abbrv": "PNU",
+        "County Code": "11",
+        "County Name": "Isiolo",
+        "No": "71",
+        "Other Names": "Betsy Kaari",
+        "Party Code": "14",
+        "Political Party Name": "Party of National Unity",
+        "Surname": "Thambu"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "12",
+        "County Name": "Meru",
+        "No": "72",
+        "Other Names": "Catherine Kagwiria",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Isaiah"
+    },
+    {
+        "Abbrv": "PNU",
+        "County Code": "12",
+        "County Name": "Meru",
+        "No": "73",
+        "Other Names": "Elizabeth Karambu",
+        "Party Code": "14",
+        "Political Party Name": "Party of National Unity",
+        "Surname": "Kailemia"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "12",
+        "County Name": "Meru",
+        "No": "74",
+        "Other Names": "Florence",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Kajuju"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "12",
+        "County Name": "Meru",
+        "No": "75",
+        "Other Names": "Betsy",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Kinya"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "12",
+        "County Name": "Meru",
+        "No": "76",
+        "Other Names": "Susan K M",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Kinyua"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "12",
+        "County Name": "Meru",
+        "No": "77",
+        "Other Names": "Kawira",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Mwangaza"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "13",
+        "County Name": "Tharaka Nithi",
+        "No": "78",
+        "Other Names": "Penina Nkamba Murungi",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Kambanja"
+    },
+    {
+        "Abbrv": "NVP",
+        "County Code": "13",
+        "County Name": "Tharaka Nithi",
+        "No": "79",
+        "Other Names": "Floric Kageni",
+        "Party Code": "2",
+        "Political Party Name": "The National Vision Party",
+        "Surname": "Kaune"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "13",
+        "County Name": "Tharaka Nithi",
+        "No": "80",
+        "Other Names": "Sarah Karimi",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Kithinji"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "13",
+        "County Name": "Tharaka Nithi",
+        "No": "81",
+        "Other Names": "Tabitha Maugi",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Mbungu"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "13",
+        "County Name": "Tharaka Nithi",
+        "No": "82",
+        "Other Names": "Beatrice Nkatha",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Nyaga"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "14",
+        "County Name": "Embu",
+        "No": "83",
+        "Other Names": "Monica Cyombua",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Gitari"
+    },
+    {
+        "Abbrv": "AGANO",
+        "County Code": "14",
+        "County Name": "Embu",
+        "No": "84",
+        "Other Names": "Violet Mukami",
+        "Party Code": "17",
+        "Political Party Name": "Agano Party",
+        "Surname": "Grace"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "14",
+        "County Name": "Embu",
+        "No": "85",
+        "Other Names": "Risper Kiluu",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Kaleli"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "14",
+        "County Name": "Embu",
+        "No": "86",
+        "Other Names": "Rose Rwamba",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Mitaru"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "14",
+        "County Name": "Embu",
+        "No": "87",
+        "Other Names": "Dorothy Nditi",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Muchungu"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "14",
+        "County Name": "Embu",
+        "No": "88",
+        "Other Names": "Nicera Njoki",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Mugo"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "14",
+        "County Name": "Embu",
+        "No": "89",
+        "Other Names": "Mary Ndunge",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Mutua"
+    },
+    {
+        "Abbrv": "PNU",
+        "County Code": "14",
+        "County Name": "Embu",
+        "No": "90",
+        "Other Names": "Sophia Muthoni",
+        "Party Code": "14",
+        "Political Party Name": "Party of National Unity",
+        "Surname": "Njeru"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "14",
+        "County Name": "Embu",
+        "No": "91",
+        "Other Names": "Jane Wanjuki",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Njiru"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "14",
+        "County Name": "Embu",
+        "No": "92",
+        "Other Names": "Rosemary Wanja",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Nthiga"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "14",
+        "County Name": "Embu",
+        "No": "93",
+        "Other Names": "Susan Mbuya",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Nyaga"
+    },
+    {
+        "Abbrv": "DP",
+        "County Code": "14",
+        "County Name": "Embu",
+        "No": "94",
+        "Other Names": "Josephine",
+        "Party Code": "13",
+        "Political Party Name": "Democratic Party of Kenya",
+        "Surname": "Wambura"
+    },
+    {
+        "Abbrv": "WDM-K",
+        "County Code": "15",
+        "County Name": "Kitui",
+        "No": "95",
+        "Other Names": "Irene Muthoni",
+        "Party Code": "12",
+        "Political Party Name": "Wiper Democratic Movement - Kenya",
+        "Surname": "Kasalu"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "15",
+        "County Name": "Kitui",
+        "No": "96",
+        "Other Names": "Sofia",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Khamisi"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "15",
+        "County Name": "Kitui",
+        "No": "97",
+        "Other Names": "Jane Mwende Kimuyu",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Kibati"
+    },
+    {
+        "Abbrv": "ALPK",
+        "County Code": "15",
+        "County Name": "Kitui",
+        "No": "98",
+        "Other Names": "Halima Mbathi",
+        "Party Code": "73",
+        "Political Party Name": "Alternative Leadership Party of Kenya",
+        "Surname": "Muthengi"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "15",
+        "County Name": "Kitui",
+        "No": "99",
+        "Other Names": "Nellie Ithae",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Mwanzia"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "16",
+        "County Name": "Machakos",
+        "No": "100",
+        "Other Names": "Agnes Kavindu Mbuku",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Muthama"
+    },
+    {
+        "Abbrv": "WDM-K",
+        "County Code": "16",
+        "County Name": "Machakos",
+        "No": "101",
+        "Other Names": "Joyce",
+        "Party Code": "12",
+        "Political Party Name": "Wiper Democratic Movement - Kenya",
+        "Surname": "Kamene"
+    },
+    {
+        "Abbrv": "AGANO",
+        "County Code": "16",
+        "County Name": "Machakos",
+        "No": "102",
+        "Other Names": "Benta Anyango",
+        "Party Code": "17",
+        "Political Party Name": "Agano Party",
+        "Surname": "Maura"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "16",
+        "County Name": "Machakos",
+        "No": "103",
+        "Other Names": "Susan Mbinya",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Musyoka"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "16",
+        "County Name": "Machakos",
+        "No": "104",
+        "Other Names": "Victoria Ndunge",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Musyoki"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "16",
+        "County Name": "Machakos",
+        "No": "105",
+        "Other Names": "Francisca",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Mutinda"
+    },
+    {
+        "Abbrv": "CCU",
+        "County Code": "16",
+        "County Name": "Machakos",
+        "No": "106",
+        "Other Names": "Jane Mutile Cosmas",
+        "Party Code": "36",
+        "Political Party Name": "Chama Cha Uzalendo",
+        "Surname": "Ndeti"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "16",
+        "County Name": "Machakos",
+        "No": "107",
+        "Other Names": "Ritah Ndunge",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Ndunda"
+    },
+    {
+        "Abbrv": "ND",
+        "County Code": "17",
+        "County Name": "Makueni",
+        "No": "108",
+        "Other Names": "Jacinta Wanza",
+        "Party Code": "40",
+        "Political Party Name": "New Democrats",
+        "Surname": "Kihumba"
+    },
+    {
+        "Abbrv": "LPK",
+        "County Code": "17",
+        "County Name": "Makueni",
+        "No": "109",
+        "Other Names": "Jane Wavinya Maingi",
+        "Party Code": "3",
+        "Political Party Name": "The Labour Party of Kenya",
+        "Surname": "Kitundu"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "17",
+        "County Name": "Makueni",
+        "No": "110",
+        "Other Names": "Eunice Munanie",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Kyalo"
+    },
+    {
+        "Abbrv": "PICK",
+        "County Code": "17",
+        "County Name": "Makueni",
+        "No": "111",
+        "Other Names": "Margaret Mumbua",
+        "Party Code": "7",
+        "Political Party Name": "Party of Independent Candidates of Kenya",
+        "Surname": "Mulei"
+    },
+    {
+        "Abbrv": "WDM-K",
+        "County Code": "17",
+        "County Name": "Makueni",
+        "No": "112",
+        "Other Names": "Rose Museo",
+        "Party Code": "12",
+        "Political Party Name": "Wiper Democratic Movement - Kenya",
+        "Surname": "Mumo"
+    },
+    {
+        "Abbrv": "NARC",
+        "County Code": "17",
+        "County Name": "Makueni",
+        "No": "113",
+        "Other Names": "Grace Mueni Francis",
+        "Party Code": "29",
+        "Political Party Name": "National Rainbow Coalition",
+        "Surname": "Mwewa"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "17",
+        "County Name": "Makueni",
+        "No": "114",
+        "Other Names": "Maureen Wavinya",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Nzioka"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "18",
+        "County Name": "Nyandarua",
+        "No": "115",
+        "Other Names": "Faith Wairimu",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Gitau"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "18",
+        "County Name": "Nyandarua",
+        "No": "116",
+        "Other Names": "Esther Wambui",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Maina"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "18",
+        "County Name": "Nyandarua",
+        "No": "117",
+        "Other Names": "Monicah Nyambura",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Mucheke"
+    },
+    {
+        "Abbrv": "DDA",
+        "County Code": "19",
+        "County Name": "Nyeri",
+        "No": "118",
+        "Other Names": "Joyce Njoki",
+        "Party Code": "65",
+        "Political Party Name": "Diligence Development Alliance",
+        "Surname": "Gachimu"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "19",
+        "County Name": "Nyeri",
+        "No": "119",
+        "Other Names": "Priscilla Nyokabi",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Kanyua"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "19",
+        "County Name": "Nyeri",
+        "No": "120",
+        "Other Names": "Alice Wangari",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Mwangi"
+    },
+    {
+        "Abbrv": "NARC-\nKENYA",
+        "County Code": "19",
+        "County Name": "Nyeri",
+        "No": "121",
+        "Other Names": "Jane Susan Gathii",
+        "Party Code": "1",
+        "Political Party Name": "National Rainbow Coalition - Kenya",
+        "Surname": "Mwathe"
+    },
+    {
+        "Abbrv": "PNU",
+        "County Code": "19",
+        "County Name": "Nyeri",
+        "No": "122",
+        "Other Names": "Cecilia Wangechi",
+        "Party Code": "14",
+        "Political Party Name": "Party of National Unity",
+        "Surname": "Ndungu"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "19",
+        "County Name": "Nyeri",
+        "No": "123",
+        "Other Names": "Rahab Mukami",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Wachira"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "20",
+        "County Name": "Kirinyaga",
+        "No": "124",
+        "Other Names": "Purity Wangui",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Ngirici"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "20",
+        "County Name": "Kirinyaga",
+        "No": "125",
+        "Other Names": "Beth Wambura",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Ngunyi"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "20",
+        "County Name": "Kirinyaga",
+        "No": "126",
+        "Other Names": "Winnie Karimi",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Njuguna"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "21",
+        "County Name": "Murang'a",
+        "No": "127",
+        "Other Names": "Maitu Sabina Wanjiru",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Chege"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "21",
+        "County Name": "Murang'a",
+        "No": "128",
+        "Other Names": "Evelyn Waithira",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Nyoike"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "22",
+        "County Name": "Kiambu",
+        "No": "129",
+        "Other Names": "Jane Wanjiru",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Chege"
+    },
+    {
+        "Abbrv": "AGANO",
+        "County Code": "22",
+        "County Name": "Kiambu",
+        "No": "130",
+        "Other Names": "Lydia Njeri",
+        "Party Code": "17",
+        "Political Party Name": "Agano Party",
+        "Surname": "Ndung'u"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "22",
+        "County Name": "Kiambu",
+        "No": "131",
+        "Other Names": "Gathoni",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Wamuchomba"
+    },
+    {
+        "Abbrv": "PNU",
+        "County Code": "22",
+        "County Name": "Kiambu",
+        "No": "132",
+        "Other Names": "Joyce Wanjiru",
+        "Party Code": "14",
+        "Political Party Name": "Party of National Unity",
+        "Surname": "Wandia"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "23",
+        "County Name": "Turkana",
+        "No": "133",
+        "Other Names": "Jecinta Ngasike",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Abenyo"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "23",
+        "County Name": "Turkana",
+        "No": "134",
+        "Other Names": "Joyce Akai",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Emanikor"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "23",
+        "County Name": "Turkana",
+        "No": "135",
+        "Other Names": "Pauline Akai",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Lokuruka"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "23",
+        "County Name": "Turkana",
+        "No": "136",
+        "Other Names": "Rhoda Arupe",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Loyor"
+    },
+    {
+        "Abbrv": "CCM",
+        "County Code": "23",
+        "County Name": "Turkana",
+        "No": "137",
+        "Other Names": "Beatrice Asukul",
+        "Party Code": "54",
+        "Political Party Name": "Chama Cha Mashinani",
+        "Surname": "Nakusa"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "23",
+        "County Name": "Turkana",
+        "No": "138",
+        "Other Names": "Cicilia Nangetei",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Namulen"
+    },
+    {
+        "Abbrv": "CCM",
+        "County Code": "24",
+        "County Name": "West Pokot",
+        "No": "139",
+        "Other Names": "Regina",
+        "Party Code": "54",
+        "Political Party Name": "Chama Cha Mashinani",
+        "Surname": "Chang'orok"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "24",
+        "County Name": "West Pokot",
+        "No": "140",
+        "Other Names": "Night Cherop",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Chongorio"
+    },
+    {
+        "Abbrv": "ANC",
+        "County Code": "24",
+        "County Name": "West Pokot",
+        "No": "141",
+        "Other Names": "Bridgid Florence",
+        "Party Code": "62",
+        "Political Party Name": "Amani National Congress",
+        "Surname": "Clement"
+    },
+    {
+        "Abbrv": "PNU",
+        "County Code": "24",
+        "County Name": "West Pokot",
+        "No": "142",
+        "Other Names": "Teresa Peter",
+        "Party Code": "14",
+        "Political Party Name": "Party of National Unity",
+        "Surname": "Lokichu"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "24",
+        "County Name": "West Pokot",
+        "No": "143",
+        "Other Names": "Catherine Chepkemoi",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Mukenyang"
+    },
+    {
+        "Abbrv": "NVP",
+        "County Code": "24",
+        "County Name": "West Pokot",
+        "No": "144",
+        "Other Names": "Emily Chesang",
+        "Party Code": "2",
+        "Political Party Name": "The National Vision Party",
+        "Surname": "Partany"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "24",
+        "County Name": "West Pokot",
+        "No": "145",
+        "Other Names": "Lilian Janice",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Plapan"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "24",
+        "County Name": "West Pokot",
+        "No": "146",
+        "Other Names": "Mary",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Rikiriko"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "24",
+        "County Name": "West Pokot",
+        "No": "147",
+        "Other Names": "Rodah Chepkopus",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Rotino"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "24",
+        "County Name": "West Pokot",
+        "No": "148",
+        "Other Names": "Lilian Cheptoo",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Tomitom"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "25",
+        "County Name": "Samburu",
+        "No": "149",
+        "Other Names": "Rebecca Moira",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Lengupae"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "25",
+        "County Name": "Samburu",
+        "No": "150",
+        "Other Names": "Pauline",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Lenguris"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "25",
+        "County Name": "Samburu",
+        "No": "151",
+        "Other Names": "Jespa",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Leseeto"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "25",
+        "County Name": "Samburu",
+        "No": "152",
+        "Other Names": "Maison",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Leshoomo"
+    },
+    {
+        "Abbrv": "PNU",
+        "County Code": "25",
+        "County Name": "Samburu",
+        "No": "153",
+        "Other Names": "Akiru E",
+        "Party Code": "14",
+        "Political Party Name": "Party of National Unity",
+        "Surname": "Selina"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "26",
+        "County Name": "Trans Nzoia",
+        "No": "154",
+        "Other Names": "Janet Nangabo",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Wanyama"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "26",
+        "County Name": "Trans Nzoia",
+        "No": "155",
+        "Other Names": "Edith Chepkoech",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Bor"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "26",
+        "County Name": "Trans Nzoia",
+        "No": "156",
+        "Other Names": "Esther Olenja",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Koli"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "26",
+        "County Name": "Trans Nzoia",
+        "No": "157",
+        "Other Names": "Dorothy Cherop",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Mikis"
+    },
+    {
+        "Abbrv": "NVP",
+        "County Code": "26",
+        "County Name": "Trans Nzoia",
+        "No": "158",
+        "Other Names": "Gladys Nekesa",
+        "Party Code": "2",
+        "Political Party Name": "The National Vision Party",
+        "Surname": "Mulati"
+    },
+    {
+        "Abbrv": "ANC",
+        "County Code": "26",
+        "County Name": "Trans Nzoia",
+        "No": "159",
+        "Other Names": "Immaculate Khamusa",
+        "Party Code": "62",
+        "Political Party Name": "Amani National Congress",
+        "Surname": "Shamala"
+    },
+    {
+        "Abbrv": "FORD-KENYA",
+        "County Code": "26",
+        "County Name": "Trans Nzoia",
+        "No": "160",
+        "Other Names": "Christine",
+        "Party Code": "23",
+        "Political Party Name": "Forum for Restoration of Democracy - Kenya",
+        "Surname": "Soita"
+    },
+    {
+        "Abbrv": "ANC",
+        "County Code": "27",
+        "County Name": "Uasin Gishu",
+        "No": "161",
+        "Other Names": "Moira Jepkorir",
+        "Party Code": "62",
+        "Political Party Name": "Amani National Congress",
+        "Surname": "Chepkok"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "27",
+        "County Name": "Uasin Gishu",
+        "No": "162",
+        "Other Names": "Josephine",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Cheruto"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "27",
+        "County Name": "Uasin Gishu",
+        "No": "163",
+        "Other Names": "Grace Kendagor",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Kipkemoi"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "27",
+        "County Name": "Uasin Gishu",
+        "No": "164",
+        "Other Names": "Rael Chebichii",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Lelei"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "27",
+        "County Name": "Uasin Gishu",
+        "No": "165",
+        "Other Names": "Gladys Jepkosgei-boss",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Shollei"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "28",
+        "County Name": "Elgeyo Marakwet",
+        "No": "166",
+        "Other Names": "Jane Jepkorir Kiptoo",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Chebaibai"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "28",
+        "County Name": "Elgeyo Marakwet",
+        "No": "167",
+        "Other Names": "Susan Kipketer",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Chebet"
+    },
+    {
+        "Abbrv": "PDR",
+        "County Code": "28",
+        "County Name": "Elgeyo Marakwet",
+        "No": "168",
+        "Other Names": "Kobilo Jepkosgei",
+        "Party Code": "15",
+        "Political Party Name": "Party for Development and Reform",
+        "Surname": "Cheruiyot"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "28",
+        "County Name": "Elgeyo Marakwet",
+        "No": "169",
+        "Other Names": "Florence Jepkogei Boinett",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Korat"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "28",
+        "County Name": "Elgeyo Marakwet",
+        "No": "170",
+        "Other Names": "Elizabeth Kipkiror",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Lingatom"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "28",
+        "County Name": "Elgeyo Marakwet",
+        "No": "171",
+        "Other Names": "Truphena Jepkemoi",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Yano"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "29",
+        "County Name": "Nandi",
+        "No": "172",
+        "Other Names": "Jane",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Chebet"
+    },
+    {
+        "Abbrv": "PPOK",
+        "County Code": "29",
+        "County Name": "Nandi",
+        "No": "173",
+        "Other Names": "Nolega Valtine",
+        "Party Code": "25",
+        "Political Party Name": "Progressive Party of Kenya",
+        "Surname": "Nandoya"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "29",
+        "County Name": "Nandi",
+        "No": "174",
+        "Other Names": "Tecla Chebet",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Tum"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "30",
+        "County Name": "Baringo",
+        "No": "175",
+        "Other Names": "Kaptuiya",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Cheboiwo"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "30",
+        "County Name": "Baringo",
+        "No": "176",
+        "Other Names": "Gladwell Jesire",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Cheruiyot"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "30",
+        "County Name": "Baringo",
+        "No": "177",
+        "Other Names": "Susan Chepkurui Chesiyna",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Kimosop"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "30",
+        "County Name": "Baringo",
+        "No": "178",
+        "Other Names": "Grace Jemutai",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Kiptui"
+    },
+    {
+        "Abbrv": "CCM",
+        "County Code": "30",
+        "County Name": "Baringo",
+        "No": "179",
+        "Other Names": "Naomi",
+        "Party Code": "54",
+        "Political Party Name": "Chama Cha Mashinani",
+        "Surname": "Torono"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "31",
+        "County Name": "Laikipia",
+        "No": "180",
+        "Other Names": "Jane Agnes Wanjira",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Apollos"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "31",
+        "County Name": "Laikipia",
+        "No": "181",
+        "Other Names": "Esther Wanjiru",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Kuiyukia"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "31",
+        "County Name": "Laikipia",
+        "No": "182",
+        "Other Names": "Mary Ngima",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Wanjau"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "31",
+        "County Name": "Laikipia",
+        "No": "183",
+        "Other Names": "Catherine Wanjiku",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Waruguru"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "32",
+        "County Name": "Nakuru",
+        "No": "184",
+        "Other Names": "Agnes Njambi",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Githinji"
+    },
+    {
+        "Abbrv": "NVP",
+        "County Code": "32",
+        "County Name": "Nakuru",
+        "No": "185",
+        "Other Names": "Janet Wangui",
+        "Party Code": "2",
+        "Political Party Name": "The National Vision Party",
+        "Surname": "Kamau"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "32",
+        "County Name": "Nakuru",
+        "No": "186",
+        "Other Names": "Grace Wangui",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Karuga"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "32",
+        "County Name": "Nakuru",
+        "No": "187",
+        "Other Names": "Zipporah Muthoni",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Kimani"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "32",
+        "County Name": "Nakuru",
+        "No": "188",
+        "Other Names": "Chelule Chepkorir",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Liza"
+    },
+    {
+        "Abbrv": "CCM",
+        "County Code": "32",
+        "County Name": "Nakuru",
+        "No": "189",
+        "Other Names": "Gladys Jemuge Kamuren",
+        "Party Code": "54",
+        "Political Party Name": "Chama Cha Mashinani",
+        "Surname": "Mudave"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "32",
+        "County Name": "Nakuru",
+        "No": "190",
+        "Other Names": "Assumpta Wangui",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Muiruri"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "32",
+        "County Name": "Nakuru",
+        "No": "191",
+        "Other Names": "Asha Kurwa",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Rashid"
+    },
+    {
+        "Abbrv": "SAFINA",
+        "County Code": "32",
+        "County Name": "Nakuru",
+        "No": "192",
+        "Other Names": "Saidi",
+        "Party Code": "34",
+        "Political Party Name": "Safina",
+        "Surname": "Sakina"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "33",
+        "County Name": "Narok",
+        "No": "193",
+        "Other Names": "Agnes Chepkemoi",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Busienei"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "33",
+        "County Name": "Narok",
+        "No": "194",
+        "Other Names": "Chepkorir",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Ednah"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "33",
+        "County Name": "Narok",
+        "No": "195",
+        "Other Names": "Josephine",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Isele"
+    },
+    {
+        "Abbrv": "CCM",
+        "County Code": "33",
+        "County Name": "Narok",
+        "No": "196",
+        "Other Names": "Lydia Naneu",
+        "Party Code": "54",
+        "Political Party Name": "Chama Cha Mashinani",
+        "Surname": "Masikonte"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "33",
+        "County Name": "Narok",
+        "No": "197",
+        "Other Names": "Nyamalo",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Nkumum"
+    },
+    {
+        "Abbrv": "ANC",
+        "County Code": "33",
+        "County Name": "Narok",
+        "No": "198",
+        "Other Names": "Silantoi Mosoni",
+        "Party Code": "62",
+        "Political Party Name": "Amani National Congress",
+        "Surname": "Sirere"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "33",
+        "County Name": "Narok",
+        "No": "199",
+        "Other Names": "Rebecca Noonaishi",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Tonkei"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "33",
+        "County Name": "Narok",
+        "No": "200",
+        "Other Names": "Roselinda Soipan",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Tuya"
+    },
+    {
+        "Abbrv": "ANC",
+        "County Code": "34",
+        "County Name": "Kajiado",
+        "No": "201",
+        "Other Names": "Martha Kerubo",
+        "Party Code": "62",
+        "Political Party Name": "Amani National Congress",
+        "Surname": "Marwa"
+    },
+    {
+        "Abbrv": "PNU",
+        "County Code": "34",
+        "County Name": "Kajiado",
+        "No": "202",
+        "Other Names": "Jane Muthoni",
+        "Party Code": "14",
+        "Political Party Name": "Party of National Unity",
+        "Surname": "Mucheke"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "34",
+        "County Name": "Kajiado",
+        "No": "203",
+        "Other Names": "Florence Wambui",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Mwangi"
+    },
+    {
+        "Abbrv": "WDM-K",
+        "County Code": "34",
+        "County Name": "Kajiado",
+        "No": "204",
+        "Other Names": "Justine Simayiai",
+        "Party Code": "12",
+        "Political Party Name": "Wiper Democratic Movement - Kenya",
+        "Surname": "Rakita"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "34",
+        "County Name": "Kajiado",
+        "No": "205",
+        "Other Names": "Lucy Naneu",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Shurake"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "34",
+        "County Name": "Kajiado",
+        "No": "206",
+        "Other Names": "Esther Karapio",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Somoire"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "34",
+        "County Name": "Kajiado",
+        "No": "207",
+        "Other Names": "Janet Marania",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Teyiaa"
+    },
+    {
+        "Abbrv": "PDR",
+        "County Code": "35",
+        "County Name": "Kericho",
+        "No": "208",
+        "Other Names": "Beatrice Chepngeno",
+        "Party Code": "15",
+        "Political Party Name": "Party for Development and Reform",
+        "Surname": "Kemei"
+    },
+    {
+        "Abbrv": "CCM",
+        "County Code": "35",
+        "County Name": "Kericho",
+        "No": "209",
+        "Other Names": "Emily Cherotich",
+        "Party Code": "54",
+        "Political Party Name": "Chama Cha Mashinani",
+        "Surname": "Kirui"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "35",
+        "County Name": "Kericho",
+        "No": "210",
+        "Other Names": "Florence Chepngetich",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Koskey"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "35",
+        "County Name": "Kericho",
+        "No": "211",
+        "Other Names": "Chepkorir Bati",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Vicky"
+    },
+    {
+        "Abbrv": "CCM",
+        "County Code": "36",
+        "County Name": "Bomet",
+        "No": "212",
+        "Other Names": "Beatrice",
+        "Party Code": "54",
+        "Political Party Name": "Chama Cha Mashinani",
+        "Surname": "Chepkemoi"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "36",
+        "County Name": "Bomet",
+        "No": "213",
+        "Other Names": "Joyce Korir",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Chepkoech"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "36",
+        "County Name": "Bomet",
+        "No": "214",
+        "Other Names": "Lila Chepkemoi",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Sieley"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "37",
+        "County Name": "Kakamega",
+        "No": "215",
+        "Other Names": "Mercy Shitsugane",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Luseno"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "37",
+        "County Name": "Kakamega",
+        "No": "216",
+        "Other Names": "Elsie Busihile",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Muhanda"
+    },
+    {
+        "Abbrv": "ANC",
+        "County Code": "37",
+        "County Name": "Kakamega",
+        "No": "217",
+        "Other Names": "Lydia Pamella",
+        "Party Code": "62",
+        "Political Party Name": "Amani National Congress",
+        "Surname": "Nyangala"
+    },
+    {
+        "Abbrv": "FORD-KENYA",
+        "County Code": "37",
+        "County Name": "Kakamega",
+        "No": "218",
+        "Other Names": "Fatuma Osundwa",
+        "Party Code": "23",
+        "Political Party Name": "Forum for Restoration of Democracy - Kenya",
+        "Surname": "Shaban"
+    },
+    {
+        "Abbrv": "FPK",
+        "County Code": "37",
+        "County Name": "Kakamega",
+        "No": "219",
+        "Other Names": "Nancy Lungahi",
+        "Party Code": "49",
+        "Political Party Name": "Federal Party of Kenya",
+        "Surname": "Mudeheli"
+    },
+    {
+        "Abbrv": "NARC-\nKENYA",
+        "County Code": "37",
+        "County Name": "Kakamega",
+        "No": "220",
+        "Other Names": "Irene Muyoka",
+        "Party Code": "1",
+        "Political Party Name": "National Rainbow Coalition - Kenya",
+        "Surname": "Wanyonyi"
+    },
+    {
+        "Abbrv": "ANC",
+        "County Code": "38",
+        "County Name": "Vihiga",
+        "No": "221",
+        "Other Names": "Beatrice Kahai",
+        "Party Code": "62",
+        "Political Party Name": "Amani National Congress",
+        "Surname": "Adagala"
+    },
+    {
+        "Abbrv": "CCP",
+        "County Code": "38",
+        "County Name": "Vihiga",
+        "No": "222",
+        "Other Names": "Mercy Wambui",
+        "Party Code": "61",
+        "Political Party Name": "Citizens Convention Party",
+        "Surname": "Ambani"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "38",
+        "County Name": "Vihiga",
+        "No": "223",
+        "Other Names": "Lucy Kamira",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Ambuchi"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "38",
+        "County Name": "Vihiga",
+        "No": "224",
+        "Other Names": "Rhodah Mbandu",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Amimo"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "38",
+        "County Name": "Vihiga",
+        "No": "225",
+        "Other Names": "Alice Muhonja",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Kirambi"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "38",
+        "County Name": "Vihiga",
+        "No": "226",
+        "Other Names": "Mercy Adema",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Lugariki"
+    },
+    {
+        "Abbrv": "NVP",
+        "County Code": "38",
+        "County Name": "Vihiga",
+        "No": "227",
+        "Other Names": "Margaret Munalitsi",
+        "Party Code": "2",
+        "Political Party Name": "The National Vision Party",
+        "Surname": "Mbuni'"
+    },
+    {
+        "Abbrv": "UDP",
+        "County Code": "38",
+        "County Name": "Vihiga",
+        "No": "228",
+        "Other Names": "Everlyne",
+        "Party Code": "64",
+        "Political Party Name": "United Democratic Party",
+        "Surname": "Minayo"
+    },
+    {
+        "Abbrv": "LPK",
+        "County Code": "38",
+        "County Name": "Vihiga",
+        "No": "229",
+        "Other Names": "Sylvia Leah",
+        "Party Code": "3",
+        "Political Party Name": "The Labour Party of Kenya",
+        "Surname": "Ming'ala"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "38",
+        "County Name": "Vihiga",
+        "No": "230",
+        "Other Names": "Mary Amalemba",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Nelima"
+    },
+    {
+        "Abbrv": "PPOK",
+        "County Code": "38",
+        "County Name": "Vihiga",
+        "No": "231",
+        "Other Names": "Lornah",
+        "Party Code": "25",
+        "Political Party Name": "Progressive Party of Kenya",
+        "Surname": "Obiri"
+    },
+    {
+        "Abbrv": "RLP",
+        "County Code": "38",
+        "County Name": "Vihiga",
+        "No": "232",
+        "Other Names": "Mary Adhiambo",
+        "Party Code": "58",
+        "Political Party Name": "Republican Liberty Party",
+        "Surname": "Ojuang"
+    },
+    {
+        "Abbrv": "CMD",
+        "County Code": "38",
+        "County Name": "Vihiga",
+        "No": "233",
+        "Other Names": "Millicent Cleare",
+        "Party Code": "5",
+        "Political Party Name": "Chama Mwangaza Daima",
+        "Surname": "Olisa"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "39",
+        "County Name": "Bungoma",
+        "No": "234",
+        "Other Names": "Hellen Nangekhe",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Maindi"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "39",
+        "County Name": "Bungoma",
+        "No": "235",
+        "Other Names": "Annah Nandako",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Masibo"
+    },
+    {
+        "Abbrv": "LPK",
+        "County Code": "39",
+        "County Name": "Bungoma",
+        "No": "235",
+        "Other Names": "Jacklyne Nekesa",
+        "Party Code": "3",
+        "Political Party Name": "The Labour Party of Kenya",
+        "Surname": "Nyongesa"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "39",
+        "County Name": "Bungoma",
+        "No": "237",
+        "Other Names": "Sween Khayanga Nanjala",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Nyongesa"
+    },
+    {
+        "Abbrv": "UDP",
+        "County Code": "39",
+        "County Name": "Bungoma",
+        "No": "238",
+        "Other Names": "Antonina Muyoka",
+        "Party Code": "64",
+        "Political Party Name": "United Democratic Party",
+        "Surname": "Sangura"
+    },
+    {
+        "Abbrv": "NARC-\nKENYA",
+        "County Code": "39",
+        "County Name": "Bungoma",
+        "No": "239",
+        "Other Names": "Margaret Nabwala",
+        "Party Code": "1",
+        "Political Party Name": "National Rainbow Coalition - Kenya",
+        "Surname": "Toili"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "39",
+        "County Name": "Bungoma",
+        "No": "240",
+        "Other Names": "Consalata Nabwire",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Wakwabubi"
+    },
+    {
+        "Abbrv": "FORD-KENYA",
+        "County Code": "39",
+        "County Name": "Bungoma",
+        "No": "241",
+        "Other Names": "Catherine Nanjala",
+        "Party Code": "23",
+        "Political Party Name": "Forum for Restoration of Democracy - Kenya",
+        "Surname": "Wambilianga"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "39",
+        "County Name": "Bungoma",
+        "No": "242",
+        "Other Names": "Reginalda Nakhumicha",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Wanyonyi"
+    },
+    {
+        "Abbrv": "ANC",
+        "County Code": "39",
+        "County Name": "Bungoma",
+        "No": "243",
+        "Other Names": "Kellan Khaoma",
+        "Party Code": "62",
+        "Political Party Name": "Amani National Congress",
+        "Surname": "Wavomba"
+    },
+    {
+        "Abbrv": "NVP",
+        "County Code": "40",
+        "County Name": "Busia",
+        "No": "244",
+        "Other Names": "Zilpah Chepkemoi",
+        "Party Code": "2",
+        "Political Party Name": "The National Vision Party",
+        "Surname": "Bett"
+    },
+    {
+        "Abbrv": "CCM",
+        "County Code": "40",
+        "County Name": "Busia",
+        "No": "245",
+        "Other Names": "Grace Lydia",
+        "Party Code": "54",
+        "Political Party Name": "Chama Cha Mashinani",
+        "Surname": "Chelangat"
+    },
+    {
+        "Abbrv": "UDP",
+        "County Code": "40",
+        "County Name": "Busia",
+        "No": "246",
+        "Other Names": "Elizabeth Demtila",
+        "Party Code": "64",
+        "Political Party Name": "United Democratic Party",
+        "Surname": "Juma"
+    },
+    {
+        "Abbrv": "ANC",
+        "County Code": "40",
+        "County Name": "Busia",
+        "No": "247",
+        "Other Names": "Susan Auma",
+        "Party Code": "62",
+        "Political Party Name": "Amani National Congress",
+        "Surname": "Mang'eni"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "40",
+        "County Name": "Busia",
+        "No": "248",
+        "Other Names": "Isabella Anyona",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Masinde"
+    },
+    {
+        "Abbrv": "LPK",
+        "County Code": "40",
+        "County Name": "Busia",
+        "No": "249",
+        "Other Names": "Taylor Aquinata",
+        "Party Code": "3",
+        "Political Party Name": "The Labour Party of Kenya",
+        "Surname": "Mulama"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "40",
+        "County Name": "Busia",
+        "No": "250",
+        "Other Names": "Florence Mwikali",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Mutua"
+    },
+    {
+        "Abbrv": "FORD-KENYA",
+        "County Code": "40",
+        "County Name": "Busia",
+        "No": "251",
+        "Other Names": "Pauline Morine",
+        "Party Code": "23",
+        "Political Party Name": "Forum for Restoration of Democracy - Kenya",
+        "Surname": "Nagila"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "40",
+        "County Name": "Busia",
+        "No": "252",
+        "Other Names": "Rosemary Handa",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Odima"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "40",
+        "County Name": "Busia",
+        "No": "253",
+        "Other Names": "Winnie Awuor",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Oyugi"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "41",
+        "County Name": "Siaya",
+        "No": "254",
+        "Other Names": "Florence Akinyi",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Aluodo"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "41",
+        "County Name": "Siaya",
+        "No": "255",
+        "Other Names": "Ombaka Christine",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Oduor"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "41",
+        "County Name": "Siaya",
+        "No": "256",
+        "Other Names": "Violet",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Omwamba"
+    },
+    {
+        "Abbrv": "CCP",
+        "County Code": "42",
+        "County Name": "Kisumu",
+        "No": "257",
+        "Other Names": "Grace Adhiambo",
+        "Party Code": "61",
+        "Political Party Name": "Citizens Convention Party",
+        "Surname": "Akumu"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "42",
+        "County Name": "Kisumu",
+        "No": "258",
+        "Other Names": "Beatrice Okalo",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Anyango"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "42",
+        "County Name": "Kisumu",
+        "No": "259",
+        "Other Names": "Rozaah Akinyi",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Buyu"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "42",
+        "County Name": "Kisumu",
+        "No": "260",
+        "Other Names": "Hulda Atieno",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Odhiambo"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "43",
+        "County Name": "Homa Bay",
+        "No": "261",
+        "Other Names": "Florence Rebecca",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Juma"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "43",
+        "County Name": "Homa Bay",
+        "No": "262",
+        "Other Names": "Lilian Achieng",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Okuna"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "43",
+        "County Name": "Homa Bay",
+        "No": "263",
+        "Other Names": "Gladys Atieno Nyasuna",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Wanga"
+    },
+    {
+        "Abbrv": "FORD-KENYA",
+        "County Code": "44",
+        "County Name": "Migori",
+        "No": "264",
+        "Other Names": "Agnes Achieng",
+        "Party Code": "23",
+        "Political Party Name": "Forum for Restoration of Democracy - Kenya",
+        "Surname": "Apela"
+    },
+    {
+        "Abbrv": "FPK",
+        "County Code": "44",
+        "County Name": "Migori",
+        "No": "265",
+        "Other Names": "Angellah Bevin",
+        "Party Code": "49",
+        "Political Party Name": "Federal Party of Kenya",
+        "Surname": "Bhoke"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "44",
+        "County Name": "Migori",
+        "No": "266",
+        "Other Names": "Fatuma Zainab",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Mohammed"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "44",
+        "County Name": "Migori",
+        "No": "267",
+        "Other Names": "Bhoke Christine",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Nchamah"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "44",
+        "County Name": "Migori",
+        "No": "268",
+        "Other Names": "Pamela Awuor",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Ochieng"
+    },
+    {
+        "Abbrv": "ANC",
+        "County Code": "44",
+        "County Name": "Migori",
+        "No": "269",
+        "Other Names": "Roseline Akinyi",
+        "Party Code": "62",
+        "Political Party Name": "Amani National Congress",
+        "Surname": "Ohanya"
+    },
+    {
+        "Abbrv": "SAFINA",
+        "County Code": "45",
+        "County Name": "Kisii",
+        "No": "270",
+        "Other Names": "Gladys Kemunto",
+        "Party Code": "34",
+        "Political Party Name": "Safina",
+        "Surname": "Aunga"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "45",
+        "County Name": "Kisii",
+        "No": "271",
+        "Other Names": "Aburi",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Dorice"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "45",
+        "County Name": "Kisii",
+        "No": "272",
+        "Other Names": "Mary Sally",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Keraa"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "45",
+        "County Name": "Kisii",
+        "No": "273",
+        "Other Names": "Rebeccah Kemuma",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Kerosi"
+    },
+    {
+        "Abbrv": "ANC",
+        "County Code": "45",
+        "County Name": "Kisii",
+        "No": "274",
+        "Other Names": "Lilian Kemunto",
+        "Party Code": "62",
+        "Political Party Name": "Amani National Congress",
+        "Surname": "Marwa"
+    },
+    {
+        "Abbrv": "WDM-K",
+        "County Code": "45",
+        "County Name": "Kisii",
+        "No": "275",
+        "Other Names": "Anne Kerubo",
+        "Party Code": "12",
+        "Political Party Name": "Wiper Democratic Movement - Kenya",
+        "Surname": "Masenge"
+    },
+    {
+        "Abbrv": "KSC",
+        "County Code": "45",
+        "County Name": "Kisii",
+        "No": "276",
+        "Other Names": "Linet Nyaeti",
+        "Party Code": "19",
+        "Political Party Name": "Kenya Social Congress",
+        "Surname": "Mongare"
+    },
+    {
+        "Abbrv": "FORD-KENYA",
+        "County Code": "45",
+        "County Name": "Kisii",
+        "No": "277",
+        "Other Names": "Isabella Bochaberi",
+        "Party Code": "23",
+        "Political Party Name": "Forum for Restoration of Democracy - Kenya",
+        "Surname": "Mose"
+    },
+    {
+        "Abbrv": "KNC",
+        "County Code": "45",
+        "County Name": "Kisii",
+        "No": "278",
+        "Other Names": "Norah Moraa",
+        "Party Code": "9",
+        "Political Party Name": "Kenya National Congress",
+        "Surname": "Ombui"
+    },
+    {
+        "Abbrv": "PPOK",
+        "County Code": "45",
+        "County Name": "Kisii",
+        "No": "279",
+        "Other Names": "Pamella Moraa",
+        "Party Code": "25",
+        "Political Party Name": "Progressive Party of Kenya",
+        "Surname": "Onchabo"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "45",
+        "County Name": "Kisii",
+        "No": "280",
+        "Other Names": "Vicky Nyaboke",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Onderi"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "45",
+        "County Name": "Kisii",
+        "No": "281",
+        "Other Names": "Janet",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Ongera"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "46",
+        "County Name": "Nyamira",
+        "No": "282",
+        "Other Names": "Alice Nyanchoka",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Chae"
+    },
+    {
+        "Abbrv": "FORD-KENYA",
+        "County Code": "46",
+        "County Name": "Nyamira",
+        "No": "283",
+        "Other Names": "Janet Bochaberi",
+        "Party Code": "23",
+        "Political Party Name": "Forum for Restoration of Democracy - Kenya",
+        "Surname": "Komenda"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "46",
+        "County Name": "Nyamira",
+        "No": "284",
+        "Other Names": "Mary Buyaki Saiti",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Matini"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "46",
+        "County Name": "Nyamira",
+        "No": "285",
+        "Other Names": "Jerusha Mongina",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Momanyi"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "46",
+        "County Name": "Nyamira",
+        "No": "286",
+        "Other Names": "Catherine Moraa",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Nyamato"
+    },
+    {
+        "Abbrv": "WDM-K",
+        "County Code": "46",
+        "County Name": "Nyamira",
+        "No": "287",
+        "Other Names": "Grace Bosibori",
+        "Party Code": "12",
+        "Political Party Name": "Wiper Democratic Movement - Kenya",
+        "Surname": "Nyamongo"
+    },
+    {
+        "Abbrv": "KANU",
+        "County Code": "46",
+        "County Name": "Nyamira",
+        "No": "288",
+        "Other Names": "Anned Nyakerario",
+        "Party Code": "33",
+        "Political Party Name": "Kenya African National Union",
+        "Surname": "Obaigwa"
+    },
+    {
+        "Abbrv": "CCM",
+        "County Code": "46",
+        "County Name": "Nyamira",
+        "No": "289",
+        "Other Names": "Euniah Nyanduko",
+        "Party Code": "54",
+        "Political Party Name": "Chama Cha Mashinani",
+        "Surname": "Ochoki"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "46",
+        "County Name": "Nyamira",
+        "No": "290",
+        "Other Names": "Annah Nyaera",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Omwega"
+    },
+    {
+        "Abbrv": "RBK",
+        "County Code": "46",
+        "County Name": "Nyamira",
+        "No": "291",
+        "Other Names": "Nancy Nyaboke",
+        "Party Code": "8",
+        "Political Party Name": "Restore and Build Kenya",
+        "Surname": "Onsongo"
+    },
+    {
+        "Abbrv": "MCCP",
+        "County Code": "47",
+        "County Name": "Nairobi",
+        "No": "292",
+        "Other Names": "Nadya",
+        "Party Code": "67",
+        "Political Party Name": "Maendeleo Chap Chap Party",
+        "Surname": "Khan"
+    },
+    {
+        "Abbrv": "IND",
+        "County Code": "47",
+        "County Name": "Nairobi",
+        "No": "293",
+        "Other Names": "Rosemary Wairimu",
+        "Party Code": "IND",
+        "Political Party Name": "Independent",
+        "Surname": "Macharia"
+    },
+    {
+        "Abbrv": "WDM-K",
+        "County Code": "47",
+        "County Name": "Nairobi",
+        "No": "294",
+        "Other Names": "Rahab Wangui",
+        "Party Code": "12",
+        "Political Party Name": "Wiper Democratic Movement - Kenya",
+        "Surname": "Ndambuki"
+    },
+    {
+        "Abbrv": "PDU",
+        "County Code": "47",
+        "County Name": "Nairobi",
+        "No": "295",
+        "Other Names": "Teresia Antony",
+        "Party Code": "44",
+        "Political Party Name": "Party of Democratic Unity",
+        "Surname": "Omolo"
+    },
+    {
+        "Abbrv": "ODM",
+        "County Code": "47",
+        "County Name": "Nairobi",
+        "No": "296",
+        "Other Names": "Esther Muthoni Rosanna",
+        "Party Code": "21",
+        "Political Party Name": "Orange Democratic Movement",
+        "Surname": "Passaris"
+    },
+    {
+        "Abbrv": "JP",
+        "County Code": "47",
+        "County Name": "Nairobi",
+        "No": "297",
+        "Other Names": "Rachel Wambui",
+        "Party Code": "27",
+        "Political Party Name": "Jubilee Party",
+        "Surname": "Shebesh"
+    },
+    {
+        "Abbrv": "MSS",
+        "County Code": "47",
+        "County Name": "Nairobi",
+        "No": "298",
+        "Other Names": "Khadija Ruguru",
+        "Party Code": "52",
+        "Political Party Name": "Mzalendo Saba Saba Party",
+        "Surname": "Theuri"
+    },
+    {
+        "Abbrv": "PNU",
+        "County Code": "47",
+        "County Name": "Nairobi",
+        "No": "299",
+        "Other Names": "Winnie Wanja",
+        "Party Code": "14",
+        "Political Party Name": "Party of National Unity",
+        "Surname": "Wainaina"
+    }
+]

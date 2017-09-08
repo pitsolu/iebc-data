@@ -1,0 +1,1350 @@
+[
+  {
+    "results": [
+      {
+        "county": "BARINGO",
+        "name": "BARINGO  NORTH"
+      },
+      {
+        "county": "BARINGO",
+        "name": "BARINGO CENTRAL"
+      },
+      {
+        "county": "BARINGO",
+        "name": "BARINGO SOUTH"
+      },
+      {
+        "county": "BARINGO",
+        "name": "ELDAMA RAVINE"
+      },
+      {
+        "county": "BARINGO",
+        "name": "MOGOTIO"
+      },
+      {
+        "county": "BARINGO",
+        "name": "TIATY"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "BOMET",
+        "name": "BOMET CENTRAL"
+      },
+      {
+        "county": "BOMET",
+        "name": "BOMET EAST"
+      },
+      {
+        "county": "BOMET",
+        "name": "CHEPALUNGU"
+      },
+      {
+        "county": "BOMET",
+        "name": "KONOIN"
+      },
+      {
+        "county": "BOMET",
+        "name": "SOTIK"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "BUNGOMA",
+        "name": "BUMULA"
+      },
+      {
+        "county": "BUNGOMA",
+        "name": "KABUCHAI"
+      },
+      {
+        "county": "BUNGOMA",
+        "name": "KANDUYI"
+      },
+      {
+        "county": "BUNGOMA",
+        "name": "KIMILILI"
+      },
+      {
+        "county": "BUNGOMA",
+        "name": "MT. ELGON"
+      },
+      {
+        "county": "BUNGOMA",
+        "name": "SIRISIA"
+      },
+      {
+        "county": "BUNGOMA",
+        "name": "TONGAREN"
+      },
+      {
+        "county": "BUNGOMA",
+        "name": "WEBUYE EAST"
+      },
+      {
+        "county": "BUNGOMA",
+        "name": "WEBUYE WEST"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "BUSIA",
+        "name": "BUDALANGI"
+      },
+      {
+        "county": "BUSIA",
+        "name": "BUTULA"
+      },
+      {
+        "county": "BUSIA",
+        "name": "FUNYULA"
+      },
+      {
+        "county": "BUSIA",
+        "name": "MATAYOS"
+      },
+      {
+        "county": "BUSIA",
+        "name": "NAMBALE"
+      },
+      {
+        "county": "BUSIA",
+        "name": "TESO NORTH"
+      },
+      {
+        "county": "BUSIA",
+        "name": "TESO SOUTH"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "ELGEYO/MARAKWET",
+        "name": "KEIYO NORTH"
+      },
+      {
+        "county": "ELGEYO/MARAKWET",
+        "name": "KEIYO SOUTH"
+      },
+      {
+        "county": "ELGEYO/MARAKWET",
+        "name": "MARAKWET EAST"
+      },
+      {
+        "county": "ELGEYO/MARAKWET",
+        "name": "MARAKWET WEST"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "EMBU",
+        "name": "MANYATTA"
+      },
+      {
+        "county": "EMBU",
+        "name": "MBEERE NORTH"
+      },
+      {
+        "county": "EMBU",
+        "name": "MBEERE SOUTH"
+      },
+      {
+        "county": "EMBU",
+        "name": "RUNYENJES"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "GARISSA",
+        "name": "BALAMBALA"
+      },
+      {
+        "county": "GARISSA",
+        "name": "DADAAB"
+      },
+      {
+        "county": "GARISSA",
+        "name": "FAFI"
+      },
+      {
+        "county": "GARISSA",
+        "name": "GARISSA TOWNSHIP"
+      },
+      {
+        "county": "GARISSA",
+        "name": "IJARA"
+      },
+      {
+        "county": "GARISSA",
+        "name": "LAGDERA"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "HOMA BAY",
+        "name": "HOMA BAY TOWN"
+      },
+      {
+        "county": "HOMA BAY",
+        "name": "KABONDO KASIPUL"
+      },
+      {
+        "county": "HOMA BAY",
+        "name": "KARACHUONYO"
+      },
+      {
+        "county": "HOMA BAY",
+        "name": "KASIPUL"
+      },
+      {
+        "county": "HOMA BAY",
+        "name": "MBITA"
+      },
+      {
+        "county": "HOMA BAY",
+        "name": "NDHIWA"
+      },
+      {
+        "county": "HOMA BAY",
+        "name": "RANGWE"
+      },
+      {
+        "county": "HOMA BAY",
+        "name": "SUBA"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "ISIOLO",
+        "name": "ISIOLO NORTH"
+      },
+      {
+        "county": "ISIOLO",
+        "name": "ISIOLO SOUTH"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "KAJIADO",
+        "name": "KAJIADO CENTRAL"
+      },
+      {
+        "county": "KAJIADO",
+        "name": "KAJIADO EAST"
+      },
+      {
+        "county": "KAJIADO",
+        "name": "KAJIADO NORTH"
+      },
+      {
+        "county": "KAJIADO",
+        "name": "KAJIADO SOUTH"
+      },
+      {
+        "county": "KAJIADO",
+        "name": "KAJIADO WEST"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "KAKAMEGA",
+        "name": "BUTERE"
+      },
+      {
+        "county": "KAKAMEGA",
+        "name": "IKOLOMANI"
+      },
+      {
+        "county": "KAKAMEGA",
+        "name": "KHWISERO"
+      },
+      {
+        "county": "KAKAMEGA",
+        "name": "LIKUYANI"
+      },
+      {
+        "county": "KAKAMEGA",
+        "name": "LUGARI"
+      },
+      {
+        "county": "KAKAMEGA",
+        "name": "LURAMBI"
+      },
+      {
+        "county": "KAKAMEGA",
+        "name": "MALAVA"
+      },
+      {
+        "county": "KAKAMEGA",
+        "name": "MATUNGU"
+      },
+      {
+        "county": "KAKAMEGA",
+        "name": "MUMIAS EAST"
+      },
+      {
+        "county": "KAKAMEGA",
+        "name": "MUMIAS WEST"
+      },
+      {
+        "county": "KAKAMEGA",
+        "name": "NAVAKHOLO"
+      },
+      {
+        "county": "KAKAMEGA",
+        "name": "SHINYALU"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "KERICHO",
+        "name": "AINAMOI"
+      },
+      {
+        "county": "KERICHO",
+        "name": "BELGUT"
+      },
+      {
+        "county": "KERICHO",
+        "name": "BURETI"
+      },
+      {
+        "county": "KERICHO",
+        "name": "KIPKELION EAST"
+      },
+      {
+        "county": "KERICHO",
+        "name": "KIPKELION WEST"
+      },
+      {
+        "county": "KERICHO",
+        "name": "SIGOWET/SOIN"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "KIAMBU",
+        "name": "GATUNDU NORTH"
+      },
+      {
+        "county": "KIAMBU",
+        "name": "GATUNDU SOUTH"
+      },
+      {
+        "county": "KIAMBU",
+        "name": "GITHUNGURI"
+      },
+      {
+        "county": "KIAMBU",
+        "name": "JUJA"
+      },
+      {
+        "county": "KIAMBU",
+        "name": "KABETE"
+      },
+      {
+        "county": "KIAMBU",
+        "name": "KIAMBAA"
+      },
+      {
+        "county": "KIAMBU",
+        "name": "KIAMBU"
+      },
+      {
+        "county": "KIAMBU",
+        "name": "KIKUYU"
+      },
+      {
+        "county": "KIAMBU",
+        "name": "LARI"
+      },
+      {
+        "county": "KIAMBU",
+        "name": "LIMURU"
+      },
+      {
+        "county": "KIAMBU",
+        "name": "RUIRU"
+      },
+      {
+        "county": "KIAMBU",
+        "name": "THIKA TOWN"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "KILIFI",
+        "name": "GANZE"
+      },
+      {
+        "county": "KILIFI",
+        "name": "KALOLENI"
+      },
+      {
+        "county": "KILIFI",
+        "name": "KILIFI NORTH"
+      },
+      {
+        "county": "KILIFI",
+        "name": "KILIFI SOUTH"
+      },
+      {
+        "county": "KILIFI",
+        "name": "MAGARINI"
+      },
+      {
+        "county": "KILIFI",
+        "name": "MALINDI"
+      },
+      {
+        "county": "KILIFI",
+        "name": "RABAI"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "KIRINYAGA",
+        "name": "GICHUGU"
+      },
+      {
+        "county": "KIRINYAGA",
+        "name": "KIRINYAGA CENTRAL"
+      },
+      {
+        "county": "KIRINYAGA",
+        "name": "MWEA"
+      },
+      {
+        "county": "KIRINYAGA",
+        "name": "NDIA"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "KISII",
+        "name": "BOBASI"
+      },
+      {
+        "county": "KISII",
+        "name": "BOMACHOGE BORABU"
+      },
+      {
+        "county": "KISII",
+        "name": "BOMACHOGE CHACHE"
+      },
+      {
+        "county": "KISII",
+        "name": "BONCHARI"
+      },
+      {
+        "county": "KISII",
+        "name": "KITUTU CHACHE NORTH"
+      },
+      {
+        "county": "KISII",
+        "name": "KITUTU CHACHE SOUTH"
+      },
+      {
+        "county": "KISII",
+        "name": "NYARIBARI CHACHE"
+      },
+      {
+        "county": "KISII",
+        "name": "NYARIBARI MASABA"
+      },
+      {
+        "county": "KISII",
+        "name": "SOUTH MUGIRANGO"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "KISUMU",
+        "name": "KISUMU CENTRAL"
+      },
+      {
+        "county": "KISUMU",
+        "name": "KISUMU EAST"
+      },
+      {
+        "county": "KISUMU",
+        "name": "KISUMU WEST"
+      },
+      {
+        "county": "KISUMU",
+        "name": "MUHORONI"
+      },
+      {
+        "county": "KISUMU",
+        "name": "NYAKACH"
+      },
+      {
+        "county": "KISUMU",
+        "name": "NYANDO"
+      },
+      {
+        "county": "KISUMU",
+        "name": "SEME"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "KITUI",
+        "name": "KITUI CENTRAL"
+      },
+      {
+        "county": "KITUI",
+        "name": "KITUI EAST"
+      },
+      {
+        "county": "KITUI",
+        "name": "KITUI RURAL"
+      },
+      {
+        "county": "KITUI",
+        "name": "KITUI SOUTH"
+      },
+      {
+        "county": "KITUI",
+        "name": "KITUI WEST"
+      },
+      {
+        "county": "KITUI",
+        "name": "MWINGI CENTRAL"
+      },
+      {
+        "county": "KITUI",
+        "name": "MWINGI NORTH"
+      },
+      {
+        "county": "KITUI",
+        "name": "MWINGI WEST"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "KWALE",
+        "name": "KINANGO"
+      },
+      {
+        "county": "KWALE",
+        "name": "LUNGALUNGA"
+      },
+      {
+        "county": "KWALE",
+        "name": "MATUGA"
+      },
+      {
+        "county": "KWALE",
+        "name": "MSAMBWENI"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "LAIKIPIA",
+        "name": "LAIKIPIA EAST"
+      },
+      {
+        "county": "LAIKIPIA",
+        "name": "LAIKIPIA NORTH"
+      },
+      {
+        "county": "LAIKIPIA",
+        "name": "LAIKIPIA WEST"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "LAMU",
+        "name": "LAMU EAST"
+      },
+      {
+        "county": "LAMU",
+        "name": "LAMU WEST"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "MACHAKOS",
+        "name": "KANGUNDO"
+      },
+      {
+        "county": "MACHAKOS",
+        "name": "KATHIANI"
+      },
+      {
+        "county": "MACHAKOS",
+        "name": "MACHAKOS TOWN"
+      },
+      {
+        "county": "MACHAKOS",
+        "name": "MASINGA"
+      },
+      {
+        "county": "MACHAKOS",
+        "name": "MATUNGULU"
+      },
+      {
+        "county": "MACHAKOS",
+        "name": "MAVOKO"
+      },
+      {
+        "county": "MACHAKOS",
+        "name": "MWALA"
+      },
+      {
+        "county": "MACHAKOS",
+        "name": "YATTA"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "MAKUENI",
+        "name": "KAITI"
+      },
+      {
+        "county": "MAKUENI",
+        "name": "KIBWEZI EAST"
+      },
+      {
+        "county": "MAKUENI",
+        "name": "KIBWEZI WEST"
+      },
+      {
+        "county": "MAKUENI",
+        "name": "KILOME"
+      },
+      {
+        "county": "MAKUENI",
+        "name": "MAKUENI"
+      },
+      {
+        "county": "MAKUENI",
+        "name": "MBOONI"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "MANDERA",
+        "name": "BANISSA"
+      },
+      {
+        "county": "MANDERA",
+        "name": "LAFEY"
+      },
+      {
+        "county": "MANDERA",
+        "name": "MANDERA EAST"
+      },
+      {
+        "county": "MANDERA",
+        "name": "MANDERA NORTH"
+      },
+      {
+        "county": "MANDERA",
+        "name": "MANDERA SOUTH"
+      },
+      {
+        "county": "MANDERA",
+        "name": "MANDERA WEST"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "MARSABIT",
+        "name": "LAISAMIS"
+      },
+      {
+        "county": "MARSABIT",
+        "name": "MOYALE"
+      },
+      {
+        "county": "MARSABIT",
+        "name": "NORTH HORR"
+      },
+      {
+        "county": "MARSABIT",
+        "name": "SAKU"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "MERU",
+        "name": "BUURI"
+      },
+      {
+        "county": "MERU",
+        "name": "CENTRAL IMENTI"
+      },
+      {
+        "county": "MERU",
+        "name": "IGEMBE CENTRAL"
+      },
+      {
+        "county": "MERU",
+        "name": "IGEMBE NORTH"
+      },
+      {
+        "county": "MERU",
+        "name": "IGEMBE SOUTH"
+      },
+      {
+        "county": "MERU",
+        "name": "NORTH IMENTI"
+      },
+      {
+        "county": "MERU",
+        "name": "SOUTH IMENTI"
+      },
+      {
+        "county": "MERU",
+        "name": "TIGANIA EAST"
+      },
+      {
+        "county": "MERU",
+        "name": "TIGANIA WEST"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "MIGORI",
+        "name": "AWENDO"
+      },
+      {
+        "county": "MIGORI",
+        "name": "KURIA EAST"
+      },
+      {
+        "county": "MIGORI",
+        "name": "KURIA WEST"
+      },
+      {
+        "county": "MIGORI",
+        "name": "NYATIKE"
+      },
+      {
+        "county": "MIGORI",
+        "name": "RONGO"
+      },
+      {
+        "county": "MIGORI",
+        "name": "SUNA EAST"
+      },
+      {
+        "county": "MIGORI",
+        "name": "SUNA WEST"
+      },
+      {
+        "county": "MIGORI",
+        "name": "URIRI"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "MOMBASA",
+        "name": "CHANGAMWE"
+      },
+      {
+        "county": "MOMBASA",
+        "name": "JOMVU"
+      },
+      {
+        "county": "MOMBASA",
+        "name": "KISAUNI"
+      },
+      {
+        "county": "MOMBASA",
+        "name": "LIKONI"
+      },
+      {
+        "county": "MOMBASA",
+        "name": "MVITA"
+      },
+      {
+        "county": "MOMBASA",
+        "name": "NYALI"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "MURANG'A",
+        "name": "GATANGA"
+      },
+      {
+        "county": "MURANG'A",
+        "name": "KANDARA"
+      },
+      {
+        "county": "MURANG'A",
+        "name": "KANGEMA"
+      },
+      {
+        "county": "MURANG'A",
+        "name": "KIGUMO"
+      },
+      {
+        "county": "MURANG'A",
+        "name": "KIHARU"
+      },
+      {
+        "county": "MURANG'A",
+        "name": "MARAGWA"
+      },
+      {
+        "county": "MURANG'A",
+        "name": "MATHIOYA"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "NAIROBI",
+        "name": "DAGORETTI NORTH"
+      },
+      {
+        "county": "NAIROBI",
+        "name": "DAGORETTI SOUTH"
+      },
+      {
+        "county": "NAIROBI",
+        "name": "EMBAKASI CENTRAL"
+      },
+      {
+        "county": "NAIROBI",
+        "name": "EMBAKASI EAST"
+      },
+      {
+        "county": "NAIROBI",
+        "name": "EMBAKASI NORTH"
+      },
+      {
+        "county": "NAIROBI",
+        "name": "EMBAKASI SOUTH"
+      },
+      {
+        "county": "NAIROBI",
+        "name": "EMBAKASI WEST"
+      },
+      {
+        "county": "NAIROBI",
+        "name": "KAMUKUNJI"
+      },
+      {
+        "county": "NAIROBI",
+        "name": "KASARANI"
+      },
+      {
+        "county": "NAIROBI",
+        "name": "KIBRA"
+      },
+      {
+        "county": "NAIROBI",
+        "name": "LANGATA"
+      },
+      {
+        "county": "NAIROBI",
+        "name": "MAKADARA"
+      },
+      {
+        "county": "NAIROBI",
+        "name": "MATHARE"
+      },
+      {
+        "county": "NAIROBI",
+        "name": "ROYSAMBU"
+      },
+      {
+        "county": "NAIROBI",
+        "name": "RUARAKA"
+      },
+      {
+        "county": "NAIROBI",
+        "name": "STAREHE"
+      },
+      {
+        "county": "NAIROBI",
+        "name": "WESTLANDS"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "NAKURU",
+        "name": "BAHATI"
+      },
+      {
+        "county": "NAKURU",
+        "name": "GILGIL"
+      },
+      {
+        "county": "NAKURU",
+        "name": "KURESOI NORTH"
+      },
+      {
+        "county": "NAKURU",
+        "name": "KURESOI SOUTH"
+      },
+      {
+        "county": "NAKURU",
+        "name": "MOLO"
+      },
+      {
+        "county": "NAKURU",
+        "name": "NAIVASHA"
+      },
+      {
+        "county": "NAKURU",
+        "name": "NAKURU TOWN EAST"
+      },
+      {
+        "county": "NAKURU",
+        "name": "NAKURU TOWN WEST"
+      },
+      {
+        "county": "NAKURU",
+        "name": "NJORO"
+      },
+      {
+        "county": "NAKURU",
+        "name": "RONGAI"
+      },
+      {
+        "county": "NAKURU",
+        "name": "SUBUKIA"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "NANDI",
+        "name": "ALDAI"
+      },
+      {
+        "county": "NANDI",
+        "name": "CHESUMEI"
+      },
+      {
+        "county": "NANDI",
+        "name": "EMGWEN"
+      },
+      {
+        "county": "NANDI",
+        "name": "MOSOP"
+      },
+      {
+        "county": "NANDI",
+        "name": "NANDI HILLS"
+      },
+      {
+        "county": "NANDI",
+        "name": "TINDERET"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "NAROK",
+        "name": "EMURUA DIKIRR"
+      },
+      {
+        "county": "NAROK",
+        "name": "KILGORIS"
+      },
+      {
+        "county": "NAROK",
+        "name": "NAROK EAST"
+      },
+      {
+        "county": "NAROK",
+        "name": "NAROK NORTH"
+      },
+      {
+        "county": "NAROK",
+        "name": "NAROK SOUTH"
+      },
+      {
+        "county": "NAROK",
+        "name": "NAROK WEST"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "NYAMIRA",
+        "name": "BORABU"
+      },
+      {
+        "county": "NYAMIRA",
+        "name": "KITUTU MASABA"
+      },
+      {
+        "county": "NYAMIRA",
+        "name": "NORTH MUGIRANGO"
+      },
+      {
+        "county": "NYAMIRA",
+        "name": "WEST MUGIRANGO"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "NYANDARUA",
+        "name": "KINANGOP"
+      },
+      {
+        "county": "NYANDARUA",
+        "name": "KIPIPIRI"
+      },
+      {
+        "county": "NYANDARUA",
+        "name": "NDARAGWA"
+      },
+      {
+        "county": "NYANDARUA",
+        "name": "OL JOROK"
+      },
+      {
+        "county": "NYANDARUA",
+        "name": "OL KALOU"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "NYERI",
+        "name": "KIENI"
+      },
+      {
+        "county": "NYERI",
+        "name": "MATHIRA"
+      },
+      {
+        "county": "NYERI",
+        "name": "MUKURWEINI"
+      },
+      {
+        "county": "NYERI",
+        "name": "NYERI TOWN"
+      },
+      {
+        "county": "NYERI",
+        "name": "OTHAYA"
+      },
+      {
+        "county": "NYERI",
+        "name": "TETU"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "SAMBURU",
+        "name": "SAMBURU EAST"
+      },
+      {
+        "county": "SAMBURU",
+        "name": "SAMBURU NORTH"
+      },
+      {
+        "county": "SAMBURU",
+        "name": "SAMBURU WEST"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "SIAYA",
+        "name": "ALEGO USONGA"
+      },
+      {
+        "county": "SIAYA",
+        "name": "BONDO"
+      },
+      {
+        "county": "SIAYA",
+        "name": "GEM"
+      },
+      {
+        "county": "SIAYA",
+        "name": "RARIEDA"
+      },
+      {
+        "county": "SIAYA",
+        "name": "UGENYA"
+      },
+      {
+        "county": "SIAYA",
+        "name": "UGUNJA"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "TAITA TAVETA",
+        "name": "MWATATE"
+      },
+      {
+        "county": "TAITA TAVETA",
+        "name": "TAVETA"
+      },
+      {
+        "county": "TAITA TAVETA",
+        "name": "VOI"
+      },
+      {
+        "county": "TAITA TAVETA",
+        "name": "WUNDANYI"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "TANA RIVER",
+        "name": "BURA"
+      },
+      {
+        "county": "TANA RIVER",
+        "name": "GALOLE"
+      },
+      {
+        "county": "TANA RIVER",
+        "name": "GARSEN"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "THARAKA - NITHI",
+        "name": "CHUKA/IGAMBANG'OMBE"
+      },
+      {
+        "county": "THARAKA - NITHI",
+        "name": "MAARA"
+      },
+      {
+        "county": "THARAKA - NITHI",
+        "name": "THARAKA"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "TRANS NZOIA",
+        "name": "CHERANGANY"
+      },
+      {
+        "county": "TRANS NZOIA",
+        "name": "ENDEBESS"
+      },
+      {
+        "county": "TRANS NZOIA",
+        "name": "KIMININI"
+      },
+      {
+        "county": "TRANS NZOIA",
+        "name": "KWANZA"
+      },
+      {
+        "county": "TRANS NZOIA",
+        "name": "SABOTI"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "TURKANA",
+        "name": "LOIMA"
+      },
+      {
+        "county": "TURKANA",
+        "name": "TURKANA CENTRAL"
+      },
+      {
+        "county": "TURKANA",
+        "name": "TURKANA EAST"
+      },
+      {
+        "county": "TURKANA",
+        "name": "TURKANA NORTH"
+      },
+      {
+        "county": "TURKANA",
+        "name": "TURKANA SOUTH"
+      },
+      {
+        "county": "TURKANA",
+        "name": "TURKANA WEST"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "UASIN GISHU",
+        "name": "AINABKOI"
+      },
+      {
+        "county": "UASIN GISHU",
+        "name": "KAPSERET"
+      },
+      {
+        "county": "UASIN GISHU",
+        "name": "KESSES"
+      },
+      {
+        "county": "UASIN GISHU",
+        "name": "MOIBEN"
+      },
+      {
+        "county": "UASIN GISHU",
+        "name": "SOY"
+      },
+      {
+        "county": "UASIN GISHU",
+        "name": "TURBO"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "VIHIGA",
+        "name": "EMUHAYA"
+      },
+      {
+        "county": "VIHIGA",
+        "name": "HAMISI"
+      },
+      {
+        "county": "VIHIGA",
+        "name": "LUANDA"
+      },
+      {
+        "county": "VIHIGA",
+        "name": "SABATIA"
+      },
+      {
+        "county": "VIHIGA",
+        "name": "VIHIGA"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "WAJIR",
+        "name": "ELDAS"
+      },
+      {
+        "county": "WAJIR",
+        "name": "TARBAJ"
+      },
+      {
+        "county": "WAJIR",
+        "name": "WAJIR EAST"
+      },
+      {
+        "county": "WAJIR",
+        "name": "WAJIR NORTH"
+      },
+      {
+        "county": "WAJIR",
+        "name": "WAJIR SOUTH"
+      },
+      {
+        "county": "WAJIR",
+        "name": "WAJIR WEST"
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "county": "WEST POKOT",
+        "name": "KACHELIBA"
+      },
+      {
+        "county": "WEST POKOT",
+        "name": "KAPENGURIA"
+      },
+      {
+        "county": "WEST POKOT",
+        "name": "POKOT SOUTH"
+      },
+      {
+        "county": "WEST POKOT",
+        "name": "SIGOR"
+      }
+    ]
+  }
+]

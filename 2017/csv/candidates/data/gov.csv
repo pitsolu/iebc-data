@@ -1,0 +1,211 @@
+No,Surname,Other Names,Running Mate Surname,Running Mate Other Names,County Code,County Name,Party Code,Political Party Name,Abbrv
+1,Bollo,Hezron Awiti,Mwamtoa,Hassan Bakari,1,Mombasa,60,Vibrant Democratic Party,VDP
+2,Hassan,Hassan Omar,Shuma,Linda Mariwa,1,Mombasa,12,Wiper Democratic Movement - Kenya,WDM-K
+3,Joho,Hassan Ali,Kingi,William Kazungu,1,Mombasa,21,Orange Democratic Movement,ODM
+4,Kitsao,Daniel Munga,Mwakama,Said Bakari,1,Mombasa,30,Kenya African Democratic Union - Asili,KADU-ASILI
+5,Shahbal,Suleiman Said Saleh,Mwaboza,Anania Mwasambu,1,Mombasa,27,Jubilee Party,JP
+6,Dena,James Daniel Gereza,Mulinge,James Nzomo,2,Kwale,IND,Independent,IND
+7,Kiperah,Issah Athuman,Mkalla,Simeon Mwero,2,Kwale,21,Orange Democratic Movement,ODM
+8,Mgala,Salim Mvurya,Achani,Fatuma Mohamed,2,Kwale,27,Jubilee Party,JP
+9,Mwakwere,Chirau Ali,Chigodi,Mwandogo Omari,2,Kwale,12,Wiper Democratic Movement - Kenya,WDM-K
+10,Ruwa,Sammy Nyamawi,Malila,Mutuku Isaac,2,Kwale,IND,Independent,IND
+11,Kambi,Samwel Kazungu,Mwangovya,Maurine Munyazi,3,Kilifi,30,Kenya African Democratic Union - Asili,KADU-ASILI
+12,Kingi,Amason Jeffah,Saburi,Gideon Edmund,3,Kilifi,21,Orange Democratic Movement,ODM
+13,Mangi,Kahindi James,Luganje,Esther Bahati,3,Kilifi,IND,Independent,IND
+14,Mumba,Benjamin Dadu,Mbura,Joseph Chilumo,3,Kilifi,62,Amani National Congress,ANC
+15,Mungaro,Maitha Gideon,Kamto,Kenneth Mwakombo,3,Kilifi,27,Jubilee Party,JP
+16,Abdi,Nuh Nassir,Ijema,Rashid Omar,4,Tana River,12,Wiper Democratic Movement - Kenya,WDM-K
+17,Algi,Ismael Jillo,Nunow,Issack Hussein,4,Tana River,15,Party for Development and Reform,PDR
+18,Dado,Tuneya Hussein,Mohamed,Jire Siyat,4,Tana River,27,Jubilee Party,JP
+19,Godhana,Dhadho Gaddae,Salim,Kea Batuyu,4,Tana River,21,Orange Democratic Movement,ODM
+20,Mungatan A,Danson Buya,Kuno,Hassan Barhe,4,Tana River,31,Kenya Patriots Party,KPP
+21,Abdalla,Abdalla Mohamed,Mohamed,Mwenyealy Mwenye,5,Lamu,21,Orange Democratic Movement,ODM
+22,Kinuthia,Eliud Ndungu,Mwangi,James Kibe,5,Lamu,14,Party of National Unity,PNU
+23,Swaleh,Swaleh Salim,Jeneby,Maryam Muhammed,5,Lamu,12,Wiper Democratic Movement - Kenya,WDM-K
+24,Timamy,Issa Abdalla,Mugo,Eric Kinyua,5,Lamu,62,Amani National Congress,ANC
+25,Twaha,Fahim Yasin,Abdulhakim,Aboud Bwana,5,Lamu,27,Jubilee Party,JP
+26,Katani,Erastus Mwanjama,Nzioka,Benedict Mutua,6,Taita Taveta,IND,Independent,IND
+27,Kisombe,Emmanuel Mwatibo,Shinga,Richard Mwangeka,6,Taita Taveta,IND,Independent,IND
+28,Mruttu,John Mtuta,Kibuka,Mary Ndiga,6,Taita Taveta,IND,Independent,IND
+29,Mwadegh U,Thomas Ludindi,Loliang'a,Tairo,6,Taita Taveta,21,Orange Democratic Movement,ODM
+30,Mwadime,Constantine Maghanga,Msawughi,Dalmas Simba,6,Taita Taveta,67,Maendeleo Chap Chap Party,MCCP
+31,Mwakuleg Wa,Danson Mwazo,Mrutu,Stanley Masamo,6,Taita Taveta,27,Jubilee Party,JP
+32,Mwatela,Jacinta Wanjala,Mwangoma,Alfred,6,Taita Taveta,62,Amani National Congress,ANC
+33,Samboja,Granton Graham,Mlagui,Majala Delina,6,Taita Taveta,12,Wiper Democratic Movement - Kenya,WDM-K
+34,Adan,Nathif Jama,Ali,Abdullahi Hussein,7,Garissa,12,Wiper Democratic Movement - Kenya,WDM-K
+35,Haji,Bashir Yussuf,Ahmed,Hassan Maalim Abdulahi,7,Garissa,62,Amani National Congress,ANC
+36,Hire,Ahmed Aden,Abdi,Abdinasir Mohamed,7,Garissa,67,Maendeleo Chap Chap Party,MCCP
+37,Korane,Ali Bunow,Muhumed,Abdi Dagane,7,Garissa,27,Jubilee Party,JP
+38,Abdi,Ahmed Muhumed,Yarow,Abdihafid Abdullahi,8,Wajir,15,Party for Development and Reform,PDR
+39,Warfa,Sirat Osman,Jimale,Saleh Said,8,Wajir,55,Alliance for Real Change,ARK
+40,Khalif,Hashim Abdisirad,Maalim,Ibrahim Abdullahi,8,Wajir,13,Democratic Party of Kenya,DP
+41,Mahamud,Mohamed Abdi,Muktar,Ahmed Ali,8,Wajir,27,Jubilee Party,JP
+42,Mohamad,Ahmed Abdullahi,Nunow,Ahmed Abdikadir,8,Wajir,21,Orange Democratic Movement,ODM
+43,Sheikh,Salah Abdi,Abdi,Siyad Ore,8,Wajir,76,Thirdway Alliance Kenya,TAK
+44,Noor,Hassan Hassan,Abass,Maalim Hajir,9,Mandera,48,Economic Freedom Party,EFP
+45,Roba,Ali Ibrahim,Arai,Mohamed Ahmed,9,Mandera,27,Jubilee Party,JP
+46,Adano,Umuro Sora,Ali,Abdub Guyo,10,Marsabit,33,Kenya African National Union,KANU
+47,Ali,Mohamud Mohamed,Riwe,Solomon Gubo,10,Marsabit,27,Jubilee Party,JP
+48,Kanacho,Ukur Yatani,Sarbo,Hassan Marsa,10,Marsabit,46,Frontier Alliance Party,FAP
+49,Wario,Ibrahim Dambi,Philip,Joseph Diba,10,Marsabit,21,Orange Democratic Movement,ODM
+50,Abdille,Mohamed Gulleid,Lesengei,Patrick Karume,11,Isiolo,54,Chama Cha Mashinani,CCM
+51,Adhi,Godana Doyo,Punuka,Barnabas Esunyen,11,Isiolo,15,Party for Development and Reform,PDR
+52,Ahmed,Anwar,M'tongondu,Nicholas Mugambi,11,Isiolo,67,Maendeleo Chap Chap Party,MCCP
+53,Ali,Abdul Bahari,Bomiziano,Laikuru Maingi,11,Isiolo,27,Jubilee Party,JP
+54,Kabelo,Adan Wario,Ekwam,Paul Edonga,11,Isiolo,21,Orange Democratic Movement,ODM
+55,Kuti,Mohamed Abdi,Issa,Abdi Ibrahim,11,Isiolo,IND,Independent,IND
+56,Machugu Ma,Kimaita John,Abdullahi,Abdi Osman,11,Isiolo,13,Democratic Party of Kenya,DP
+57,Atheru,Kiambi James Thambura,Kunyanga,Irene Kathure,12,Meru,IND,Independent,IND
+58,Gatobu,Bonface Kinoti,Naftaly,Kathurima,12,Meru,IND,Independent,IND
+59,Kaburu,Winfred,Mungania,Laibon Isaiah,12,Meru,12,Wiper Democratic Movement - Kenya,WDM-K
+60,Munya,Peter Gatirau,Nkubitu,Peter Kaberia,12,Meru,14,Party of National Unity,PNU
+61,Murungi,Kiraitu,Ntuchiu,Titus Mutea,12,Meru,27,Jubilee Party,JP
+62,Mwiria,Kilemi,Mwithali,Shadrack,12,Meru,67,Maendeleo Chap Chap Party,MCCP
+63,Kathee,Kathee-gwa,Njagi,Joachim,13,Tharaka Nithi,21,Orange Democratic Movement,ODM
+64,M'nkiria,Petkay Shen Miriti,Ichenga,Gerald Mugao,13,Tharaka Nithi,IND,Independent,IND
+65,Mbaka,Crispus Mwenda,Njagi,Arnold Micheni,13,Tharaka Nithi,IND,Independent,IND
+66,Njuki,Onesmus Muthomi,Kagwima,Francis Nyamu,13,Tharaka Nithi,27,Jubilee Party,JP
+67,Ragwa,Samwel Mbae,Mate,Eliud Murithi,13,Tharaka Nithi,1,National Rainbow Coalition - Kenya,NARC-KENYA
+68,Kithinji,Kiragu,Kathiga,Elias Njeru,14,Embu,14,Party of National Unity,PNU
+69,Kivuti,Lenny Maxwell,Kathuri,Emilio Mureithi,14,Embu,67,Maendeleo Chap Chap Party,MCCP
+70,Njeru,Leonard Muriuki,Karucu,Sylvester Gakumu,14,Embu,1,National Rainbow Coalition - Kenya,NARC-KENYA
+71,Njiru,Cyrus,Njeru,Edith Roseline,14,Embu,IND,Independent,IND
+72,Njuki,Peter Njagi,Ireri,Joseph Muriithi,14,Embu,13,Democratic Party of Kenya,DP
+73,Wambora,Martin Nyaga,Njeru,David Kariuki,14,Embu,27,Jubilee Party,JP
+74,Malombe,Dr Julius Makau,Musee,Agnes Kambua John,15,Kitui,12,Wiper Democratic Movement - Kenya,WDM-K
+75,Musila,David,Malonza,Peninah,15,Kitui,IND,Independent,IND
+76,Ngilu,Charity Kaluki,Nzau,Dr Gideon Wathe,15,Kitui,29,National Rainbow Coalition,NARC
+77,Kiala,Bernard Muia Tom,Mutula,Evelyn Mwende,16,Machakos,IND,Independent,IND
+78,Lemi,Muia Jeremiah,Karanja,John Ngigi,16,Machakos,27,Jubilee Party,JP
+79,Mutua,Alfred Nganga,Maliti,Francis Wambua,16,Machakos,67,Maendeleo Chap Chap Party,MCCP
+80,Ndeti,Wavinya,Mathuki,Peter Mutuku,16,Machakos,12,Wiper Democratic Movement - Kenya,WDM-K
+81,Kibwana,Kivutha,Mwau,Adelina Ndeto,17,Makueni,12,Wiper Democratic Movement - Kenya,WDM-K
+82,Kiilu,Kyengo Bernard,Kali,Urbanus Ngao,17,Makueni,69,Liberal Democratic Party,LDP
+83,Masika,David Wambua Joel,Mutisya,Emmanuel Musau,17,Makueni,40,New Democrats,ND
+84,Ndambuki,Gideon Musyoka,Maoka,Jeniffer Koki,17,Makueni,27,Jubilee Party,JP
+85,Badilisha,Moses Ndirangu Kiarie,Kirika,Waithaka Mwangi,18,Nyandarua,IND,Independent,IND
+86,Kanja,Francis Muchina,Kimone,Philip Kariuki,18,Nyandarua,67,Maendeleo Chap Chap Party,MCCP
+87,Kimemia,Francis Thuita,Mbuthia,Cecila Wanjiru,18,Nyandarua,27,Jubilee Party,JP
+88,Mwangi,Daniel Waithaka,Gathimba,Peter Mwangi,18,Nyandarua,IND,Independent,IND
+89,Gakuru,Patrick Wahome,Kahiga,Edward Mutahi,19,Nyeri,27,Jubilee Party,JP
+90,Githaiga,Samwel Wamathai,Cocorico,E Githinji Kinyanjui,19,Nyeri,IND,Independent,IND
+91,Munene Kairu,Patrick Maina,Njoori,Mary Njeri,19,Nyeri,13,Democratic Party of Kenya,DP
+92,Kagai,Bedan Muriithi,Ruitah,Dorothy Wanja,20,Kirinyaga,IND,Independent,IND
+93,Karua,Martha Wangari,Gitari,Joseph Gachoki,20,Kirinyaga,1,National Rainbow Coalition - Kenya,NARC-KENYA
+94,Macharia,Kennedy Karani,Nyaga,Kelvin Munene,20,Kirinyaga,67,Maendeleo Chap Chap Party,MCCP
+95,Ndathi,Joseph Kathuri,Gachugo,Stanley Kithaka,20,Kirinyaga,IND,Independent,IND
+96,Waiguru,Anne Mumbi,Njagi,Peter Ndambiri,20,Kirinyaga,27,Jubilee Party,JP
+97,Mwangi,Moses Ndungu,Wanjohi,Festus Mithi,21,Murang'a,52,Mzalendo Saba Saba Party,MSS
+98,Mwangi,Wa-iria,Kamau,James Maina,21,Murang'a,27,Jubilee Party,JP
+99,Babayao,Ferdinard Ndungu Waititu,Nyoro,James Karanja,22,Kiambu,27,Jubilee Party,JP
+100,Gitau,William Kabogo,Githinji,Gerald Gakuha,22,Kiambu,IND,Independent,IND
+101,Kanyanja,Gakuru,Muturi,Evan Mumu,22,Kiambu,67,Maendeleo Chap Chap Party,MCCP
+102,Njuguna,James Nganga,Wambui,Pauline,22,Kiambu,IND,Independent,IND
+103,Kiyonga,John Munyes,Lokoel,Peter Ekai,23,Turkana,27,Jubilee Party,JP
+104,Nanok,Josphat Koli,Emuria,Lotethiro Peter,23,Turkana,21,Orange Democratic Movement,ODM
+105,Kitalei,Simon Kachapin,Lotee,Titus,24,West Pokot,27,Jubilee Party,JP
+106,Lonyang'a Puo,John Krop,Atudonyang,Nicholas Owon Kpar,24,West Pokot,33,Kenya African National Union,KANU
+107,Lengoibon I,Gabriel Kimoroko,Leremore,Thomas,25,Samburu,33,Kenya African National Union,KANU
+108,Lenolkul Al,Moses Kasainie,Lesseto,Julius Lawrence,25,Samburu,27,Jubilee Party,JP
+109,Lesrima,Simeon Saimanga,Lemarkat,Joseph,25,Samburu,21,Orange Democratic Movement,ODM
+110,Bisau,Maurice Kakai,Mutai,Simon Kipkoech,26,Trans Nzoia,27,Jubilee Party,JP
+111,Khaemba,Patrick Simiyu E S,Kiptoo Kenei Tarus,Stanley,26,Trans Nzoia,23,Forum for Restoration of Democracy - Kenya,FORD-KENYA
+112,Mburu,Joseph Mbugua,Masika,Samwel Furegi,26,Trans Nzoia,2,The National Vision Party,NVP
+113,Wafula,Moses Khaoya,Wekesa,Redempta K ' Siro,26,Trans Nzoia,IND,Independent,IND
+114,Wanyonyi,Andrew Mkhisa,Kiruhi,Protas Chemonges,26,Trans Nzoia,62,Amani National Congress,ANC
+115,Bundotic H,Zedekiah Buzeki Kiprop,Cheruiyot,Samson Kipkosgei,27,Uasin Gishu,IND,Independent,IND
+116,Mandago,Jackson Kiplagat,Kiprotich,Daniel Kiplagat,27,Uasin Gishu,27,Jubilee Party,JP
+117,Biwott,Timothyt Kipchumba,Kiplagat,Faith Jepkemoi,28,Elgeyo Marakwet,21,Orange Democratic Movement,ODM
+118,Changwo Ny,Kiplagat Moses,Chepkitony,Lucas Kipkosgei,28,Elgeyo Marakwet,IND,Independent,IND
+119,Chelimo,Anthony Kipkogee,Tanui,Samuel Kimutai,28,Elgeyo Marakwet,IND,Independent,IND
+120,Komen,Absolom Biwott,Cheboi,Isaiah,28,Elgeyo Marakwet,33,Kenya African National Union,KANU
+121,Tolgos,Alex Tanui,Rotich,Wisley Kipyegon,28,Elgeyo Marakwet,27,Jubilee Party,JP
+122,Kipketer,Daniel,Chesang,Amos Kipruto,29,Nandi,33,Kenya African National Union,KANU
+123,Koech,Nicholas Tirop,Nkanae,Nehemiah Ereu Kiprotich,29,Nandi,IND,Independent,IND
+124,Sang,Stephen Kipyego,Mitei,Dr Yulita Chebotip,29,Nandi,27,Jubilee Party,JP
+125,Serem,Anderson Kibet,Kiplimo,Cornelius Rotich,29,Nandi,IND,Independent,IND
+126,Chebon,Isaac Kiprop,Bomett,Lawrence Kiprop,30,Baringo,33,Kenya African National Union,KANU
+127,Kiptis,Stanley K,Kurui,Jacob Chepkwony,30,Baringo,27,Jubilee Party,JP
+128,Irungu,Joshua Wakahora,Biliha,Patrick Waigwa,31,Laikipia,27,Jubilee Party,JP
+129,Muriithi,Ndiritu,Mwaniki,John Mathenge,31,Laikipia,IND,Independent,IND
+130,Ben,Paul Njoroge,Kerama,Enock Nyanaro,32,Nakuru,33,Kenya African National Union,KANU
+131,Kariuki,Isaiah Gichanga,Gachuiri,Bernard Warui,32,Nakuru,IND,Independent,IND
+132,Kinyajui,Lee Maiyani,Korir,Erick Kipkoech,32,Nakuru,27,Jubilee Party,JP
+133,Koros,Peter Kiplangat,Michoma,James Machuka Getuno,32,Nakuru,54,Chama Cha Mashinani,CCM
+134,Mungai,James Kiarie,Karanja,Stanley Chege,32,Nakuru,IND,Independent,IND
+135,Mututho,John Michael Njenga,Luka,Jacob Ogetii,32,Nakuru,IND,Independent,IND
+136,Musuni,Joseph K Tiampati Ole,Oltetia,William Kenteiyia,33,Narok,21,Orange Democratic Movement,ODM
+137,Ole,Keturet Ntutu,Rop,Kibet Weldon,33,Narok,54,Chama Cha Mashinani,CCM
+138,Tunai,Samuel Kuntai,Aruasa,Evalyn Chepkirui,33,Narok,27,Jubilee Party,JP
+139,Lenku,Joseph Jama Ole,Moshisho,Martin Martine,34,Kajiado,27,Jubilee Party,JP
+140,Livondo,Daniel Mpute Nina,Sidamai,Kennedy Thiongo,34,Kajiado,14,Party of National Unity,PNU
+141,Ole Nkediany,David Kepue,Ntiati,Paul Mpute Ole,34,Kajiado,21,Orange Democratic Movement,ODM
+142,Chepkwon Y,Paul Kiprono,Kikwai,Susan Chepkoech,35,Kericho,27,Jubilee Party,JP
+143,Keter,Jonah Kipkemoi,Rotich,Samuel Kimutai,35,Kericho,33,Kenya African National Union,KANU
+144,Laboso,Joyce Cherono,Barchok,Hillary Kipngeno,36,Bomet,27,Jubilee Party,JP
+145,Rutto,Isaac Kiprono,Langat,Geofrey Kiprono,36,Bomet,54,Chama Cha Mashinani,CCM
+146,Kanyanya,Suleiman Sumba,Songa,Harry Young,37,Kakamega,33,Kenya African National Union,KANU
+147,Khalwale,Boni,Chilongo,James Paul Lusamamba,37,Kakamega,23,Forum for Restoration of Democracy - Kenya,FORD-KENYA
+148,Muruli,Mable,Marani,John,37,Kakamega,27,Jubilee Party,JP
+149,Oparanya H,Wycliffe Ambetsa,Kutima,Philip Museve,37,Kakamega,21,Orange Democratic Movement,ODM
+150,Sakwa,Michael Osundwa,Sunguti,Caleb Amondo,37,Kakamega,62,Amani National Congress,ANC
+151,Akaranga,Epainitous Moses,Imbunya,Joseph Muhadia,38,Vihiga,25,Progressive Party of Kenya,PPOK
+152,Butiko,Enosi Kennedy,Lubanga,Castro,38,Vihiga,64,United Democratic Party,UDP
+153,Chanzu,Yusuf Kifuma,Nyonje,Elias Billy,38,Vihiga,62,Amani National Congress,ANC
+154,Ogwero,Josphat Amadi,Oduk,Hellen Anyiso Oginga,38,Vihiga,IND,Independent,IND
+155,Ottichilo,Wilber Khasilwa,Lumumba,Patrick Saisi,38,Vihiga,21,Orange Democratic Movement,ODM
+156,Khangati,Alfred,Nangalama,Ratcliffe M,39,Bungoma,21,Orange Democratic Movement,ODM
+157,Lusaka,Kenneth Makelo,Moywo,Hillary Chongwony,39,Bungoma,27,Jubilee Party,JP
+158,Mutoro,Stephen Simiyu,Fwamba,Evans Juma,39,Bungoma,62,Amani National Congress,ANC
+159,Nduruchi,Wakhungu Jim,Cheshari,Kennedy Chepyagan,39,Bungoma,IND,Independent,IND
+160,Wangamat I,Wycliffe Wafula,Ngome,Charles Kibanani,39,Bungoma,23,Forum for Restoration of Democracy - Kenya,FORD-KENYA
+161,Kidwoli,Daniel Barasa,Imoite,John Otee,40,Busia,27,Jubilee Party,JP
+162,Mondoh,Aloysius Okotch,Juma,Asmini,40,Busia,8,Restore and Build Kenya,RBK
+163,Nyongesa,Otuoma Paul,Abwaku,Solomon Akadake,40,Busia,IND,Independent,IND
+164,Ojaamong,Sospeters Odeke,Okhoba,Moses Mulomi,40,Busia,21,Orange Democratic Movement,ODM
+165,Okwara,Benjamin Onyango,Bwakau,Berita Nasirumbi,40,Busia,28,Maendeleo Democratic Party,MDP
+166,Oloo,Michael Otieno,Amollo,Edgar Muga,40,Busia,23,Forum for Restoration of Democracy - Kenya,FORD-KENYA
+167,Oyatsi,Francis Lawrence,Obwini,Ezra Olola,40,Busia,64,United Democratic Party,UDP
+168,Akello,Dan Salim Ongonga,Oduor,Millicent C Adhiambo,41,Siaya,27,Jubilee Party,JP
+169,Amoth,Cornel Rasanga,Okumbe,James Ouko,41,Siaya,21,Orange Democratic Movement,ODM
+170,Gumbo,Nicolas O,Ochogo,Tubmun Otieno,41,Siaya,IND,Independent,IND
+171,Odhiambo,Omoro Daniel,Ogolla,Antony Fredrick,41,Siaya,IND,Independent,IND
+172,Winja,Noah Migudo,William,Ochieng Otieno,41,Siaya,IND,Independent,IND
+173,Nyong'o,Peter Anyang',Owili,Mathew Ochieng,42,Kisumu,21,Orange Democratic Movement,ODM
+174,Omolo,Peter Charles Owino,Ondiek,Peres Adhiambo,42,Kisumu,62,Amani National Congress,ANC
+175,Otieno,Christine R Atieno,Wariero,Aloyce Odiango,42,Kisumu,27,Jubilee Party,JP
+176,Ranguma,Jackton Nyanungo,Kananga,Ephraim Philip Onyango,42,Kisumu,IND,Independent,IND
+177,Wayiera,David Otieno,Mobisa,Samson Abisai,42,Kisumu,73,Alternative Leadership Party of Kenya,ALPK
+178,Awiti,Cyprian Archelius,Orata,Hamilton Onyango,43,Homa Bay,21,Orange Democratic Movement,ODM
+179,Misama,Medo Luke Calvins,Amala,Mark Olang,43,Homa Bay,IND,Independent,IND
+180,Onyango,Tom Otieno,Okoth,Michael Ogolla,43,Homa Bay,27,Jubilee Party,JP
+181,Gibagiri,Chrispinus Weiria,Monanka,Simon Wambura,44,Migori,27,Jubilee Party,JP
+182,Mbogo,George Ochilo Ayacko,Chacha,Lucas Mosenda,44,Migori,IND,Independent,IND
+183,Obado,Zakaria Okoth,Mahanga,Mwita,44,Migori,21,Orange Democratic Movement,ODM
+184,Ogallo,Samson Owuor,Gabriel,Kemege Tyson,44,Migori,IND,Independent,IND
+185,Okoth,Otieno Jack,Mohochi,Kennedy Mwita,44,Migori,62,Amani National Congress,ANC
+186,Bagwasi,Charles Maranga,Oirere,Bororo Onyimbo Naftal,45,Kisii,5,Chama Mwangaza Daima,CMD
+187,Mogeni,Kepha,Okioma,Julius Makori,45,Kisii,25,Progressive Party of Kenya,PPOK
+188,Nyaberi,Justry P Lumumba,Birundu,Charles Onyambu,45,Kisii,12,Wiper Democratic Movement - Kenya,WDM-K
+189,Nyamao,Samwel Nyachwaya,Nyagero,Daniel Ogembo,45,Kisii,IND,Independent,IND
+190,Nyamweya,Manson Oyongo,Maisiba,Tom Marube,45,Kisii,9,Kenya National Congress,KNC
+191,Obure,Christopher Mogere,Nyaundi,Albert Mbaka,45,Kisii,27,Jubilee Party,JP
+192,Omboto,Boniface,Gai,Ouko Robert,45,Kisii,67,Maendeleo Chap Chap Party,MCCP
+193,Ongwae,James Elvis Omariba,Maangi,Joash Arthur,45,Kisii,21,Orange Democratic Movement,ODM
+194,Kumenda,Aboko J S,Arisa,M Richard,46,Nyamira,IND,Independent,IND
+195,Nyagaram A,John Obiero,Nyaribo,Amos Kimwomi,46,Nyamira,21,Orange Democratic Movement,ODM
+196,Nyakiba,Erneo Mageto Moruri,Ndubi,Frank P,46,Nyamira,15,Party for Development and Reform,PDR
+197,Okioma,Samson Mwancha,Momanyi,Job Nyasimi,46,Nyamira,39,Peoples Democratic Party,PDP
+198,Okongo,Kennedy Mongare,Onkangi,Chelimo Emmaculate,46,Nyamira,71,National Liberal Party,NLP
+199,Ondicho,James Gesami,Maiko,Mageto Peter,46,Nyamira,IND,Independent,IND
+200,Ongaga,Evans Nyatigo,Nyakango,Jared Osoro,46,Nyamira,54,Chama Cha Mashinani,CCM
+201,Onyancha,David Anasi,Borura,Samson Nyambati Akara,46,Nyamira,12,Wiper Democratic Movement - Kenya,WDM-K
+202,Osebe,Walter Enock Nyambati,Oboso,Steven Kennedy,46,Nyamira,27,Jubilee Party,JP
+203,Evans,Kidero Odhiambo,Mueke,Jonathan Mwangangi,47,Nairobi,21,Orange Democratic Movement,ODM
+204,Francis,Mwanga Inganji,Angwenyi,Peterson Rongi,47,Nairobi,37,National Agenda Party of Kenya,NAPK
+205,Kenneth,Peter,Shikanda,Daniel Akala,47,Nairobi,IND,Independent,IND
+206,Kioko,Mike Sonko Mbuvi Gidion,Kamau,Polycarp Igathe,47,Nairobi,27,Jubilee Party,JP
+207,Macharia,Lawrence Kamau,Zein,Ahmed Mohamed,47,Nairobi,44,Party of Democratic Unity,PDU
+208,Miguna,Miguna,Wangenye,Karen Elizabeth Wanjiku,47,Nairobi,IND,Independent,IND
+209,Mumo,Michael Mutinda,Kimunyu,Anne Wamuyu,47,Nairobi,17,Agano Party,AGANO
+210,Waweru,Godfrey Wanyoike,Omukawila,Douglas Lawrence Ebole,47,Nairobi,IND,Independent,IND
