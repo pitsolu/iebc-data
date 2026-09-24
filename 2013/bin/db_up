@@ -1,0 +1,29 @@
+#!/bin/bash
+
+source .env
+
+# sqlite3 $IEBC_DB <<EOF
+# .mode csv
+# .import --skip 1 --csv data/pollingstation-constituency.csv pollstation_const(county, ward, constituency, name, point_lat, point_lon)
+# EOF
+
+sqlite3 $IEBC_DB <<EOF
+-- 1. Explicitly isolate CSV mode
+.mode csv
+
+-- 2. Import CSV directly into a temporary staging table
+-- (SQLite automatically creates this staging table based on the CSV headers)
+.import data/pollingstation-constituency.csv temp_staging
+
+-- 3. Safely map the staging columns to your production table.
+-- Your 'id' column will autogenerate perfectly here.
+INSERT INTO pollstation_const(county, ward, constituency, name, point_lat, point_lon)
+SELECT county, ward, constituency, name, point_lat, point_lon 
+FROM temp_staging;
+
+-- 4. Clean up the temporary staging table
+DROP TABLE temp_staging;
+EOF
+
+sqlite3 $IEBC_DB --csv ".import data/counties_only.csv counties_only" 2> /dev/null
+sqlite3 $IEBC_DB --csv ".import data/county_subcounties.csv county_subcounties" 2> /dev/null

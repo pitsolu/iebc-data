@@ -1,0 +1,6 @@
+#!/bin/bash
+
+rm data/pollingstation-constituency.csv data/pollingstation-constituency.json 2> /dev/null
+unzip data/pollingstation-constituency.json.zip -d data/
+echo "county,ward,constituency,name,point_lat,point_lon" > data/pollingstation-constituency.csv
+cat data/pollingstation-constituency.json | jq -r ".[].results[]|[.county, .ward, .constituency, .name, .point.lat, .point.lon]| @csv" >> data/pollingstation-constituency.csv

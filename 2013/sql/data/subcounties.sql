@@ -1,77 +1,4 @@
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET time_zone = "+00:00";
-
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8mb4 */;
-
-
-CREATE TABLE IF NOT EXISTS `counties` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
-  `county_name` varchar(255) NOT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=48 DEFAULT CHARSET=utf8 COMMENT='county';
-
-INSERT INTO `counties` (`id`, `county_name`) VALUES
-(1, 'MOMBASA'),
-(2, 'KWALE'),
-(3, 'KILIFI'),
-(4, 'TANA RIVER'),
-(5, 'LAMU'),
-(6, 'TAITA TAVETA'),
-(7, 'GARISSA'),
-(8, 'WAJIR'),
-(9, 'MANDERA'),
-(10, 'MARSABIT'),
-(11, 'ISIOLO'),
-(12, 'MERU'),
-(13, 'THARAKA-NITHI'),
-(14, 'EMBU'),
-(15, 'KITUI'),
-(16, 'MACHAKOS'),
-(17, 'MAKUENI'),
-(18, 'NYANDARUA'),
-(19, 'NYERI'),
-(20, 'KIRINYAGA'),
-(21, 'MURANG\'A'),
-(22, 'KIAMBU'),
-(23, 'TURKANA'),
-(24, 'WEST POKOT'),
-(25, 'SAMBURU'),
-(26, 'TRANS NZOIA'),
-(27, 'UASIN GISHU'),
-(28, 'ELGEYO/MARAKWET'),
-(29, 'NANDI'),
-(30, 'BARINGO'),
-(31, 'LAIKIPIA'),
-(32, 'NAKURU'),
-(33, 'NAROK'),
-(34, 'KAJIADO'),
-(35, 'KERICHO'),
-(36, 'BOMET'),
-(37, 'KAKAMEGA'),
-(38, 'VIHIGA'),
-(39, 'BUNGOMA'),
-(40, 'BUSIA'),
-(41, 'SIAYA'),
-(42, 'KISUMU'),
-(43, 'HOMA BAY'),
-(44, 'MIGORI'),
-(45, 'KISII'),
-(46, 'NYAMIRA'),
-(47, 'NAIROBI');
-
-CREATE TABLE IF NOT EXISTS `subcounties` (
-  `id` int(255) NOT NULL AUTO_INCREMENT,
-  `county_id` int(20) NOT NULL,
-  `name` varchar(50) NOT NULL,
-  `ward` varchar(50) NOT NULL,
-  `alias` varchar(100) NOT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=1451 DEFAULT CHARSET=latin1;
-
-INSERT INTO `subcounties` (`id`, `county_id`, `name`, `ward`, `alias`) VALUES
+INSERT INTO `counties_subcounties` (`id`, `county_id`, `name`, `ward`, `alias`) VALUES
 (1, 1, 'changamwe', 'port reitz', ''),
 (2, 1, 'changamwe', 'kipevu', ''),
 (3, 1, 'changamwe', 'airport', ''),
@@ -1363,7 +1290,7 @@ INSERT INTO `subcounties` (`id`, `county_id`, `name`, `ward`, `alias`) VALUES
 (1289, 44, 'kuria west', 'bukira east', ''),
 (1290, 44, 'kuria west', 'bukira centrl/ikerege', ''),
 (1291, 44, 'kuria west', 'isibania', '');
-INSERT INTO `subcounties` (`id`, `county_id`, `name`, `ward`, `alias`) VALUES
+INSERT INTO `counties_subcounties` (`id`, `county_id`, `name`, `ward`, `alias`) VALUES
 (1292, 44, 'kuria west', 'makerero', ''),
 (1293, 44, 'kuria west', 'masaba', ''),
 (1294, 44, 'kuria west', 'tagare', ''),
@@ -1523,7 +1450,3 @@ INSERT INTO `subcounties` (`id`, `county_id`, `name`, `ward`, `alias`) VALUES
 (1448, 47, 'mathare', 'ngei', ''),
 (1449, 47, 'mathare', 'mlango kubwa', ''),
 (1450, 47, 'mathare', 'kiamaiko', '');
-
-/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
-/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
-/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

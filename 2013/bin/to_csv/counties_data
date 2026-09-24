@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm data/county_regions.csv 2> /dev/null
+echo "county,name" > data/county_regions.csv
+cat data/county_regions.json | jq ".[].results[] | [.county, .name] | sort | @csv" -r >> data/county_regions.csv

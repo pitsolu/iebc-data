@@ -1,0 +1,6 @@
+#!/bin/bash
+
+source .env
+
+sqlite3 "$IEBC_DB" < sql/schema/counties+subcounties.sql
+sqlite3 "$IEBC_DB" < sql/schema/pollstation_const+counties.sql

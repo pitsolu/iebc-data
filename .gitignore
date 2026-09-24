@@ -1,0 +1,7 @@
+iebc-data.sublime-project
+iebc-data.sublime-workspace
+iebc*.db
+2013/data/county_regions.csv
+2013/data/pollingstation-constituency.csv 
+2013/data/pollingstation-constituency.json
+2013/data/pollingstation-ward.json

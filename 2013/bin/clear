@@ -1,0 +1,6 @@
+#!/bin/bash
+
+rm data/pollingstation-constituency.csv data/pollingstation-constituency.json 2> /dev/null
+rm data/county_regions.csv 2> /dev/null
+rm data/pollingstation-ward.json 2> /dev/null
+rm iebc*.db 2> /dev/null

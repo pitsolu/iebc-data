@@ -1,0 +1,1199 @@
+{
+  "dataset": "By-election records",
+  "snapshot": "2026-09-11",
+  "coverage": "By-elections currently included in the archive, with form links and extraction status.",
+  "notes": "Preserves extraction status. Missing or unextracted forms are not zero-vote results.",
+  "reuse": "Credit Kura254 and the named original sources. Retain source, coverage and verification notes. Original source terms continue to apply; no exclusive rights to public records are sold.",
+  "count": 39,
+  "rows": [
+    {
+      "slug": "mumias-north-mca-by-election-2022",
+      "title": "Mumias North Member of County Assembly By-election",
+      "year": 2022,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Mumias North",
+      "parentGeography": "Mumias West",
+      "county": "Kakamega",
+      "date": "2022-12-08",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-037-204-1021-000-00.PDF",
+      "formId": "5070",
+      "formFilename": "F36B-037-204-1021-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=5070",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=5070",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "verified_from_form_image",
+      "candidates": [
+        {
+          "name": "Hassan Washiali Hamis",
+          "party": "N/A",
+          "votes": 12
+        },
+        {
+          "name": "Yassin Waluchio Muchelule",
+          "party": "N/A",
+          "votes": 1525
+        },
+        {
+          "name": "Rashid Rocky Omwendo",
+          "party": "N/A",
+          "votes": 1502
+        },
+        {
+          "name": "Yasin Ali Shikolio",
+          "party": "N/A",
+          "votes": 79
+        },
+        {
+          "name": "Mohammed Abdi Zakayo",
+          "party": "N/A",
+          "votes": 166
+        }
+      ]
+    },
+    {
+      "slug": "utawala-mca-by-election-2022",
+      "title": "Utawala Member of County Assembly By-election",
+      "year": 2022,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Utawala",
+      "parentGeography": "Embakasi East",
+      "county": "Nairobi City",
+      "date": "2022-12-08",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-047-285-1424-000-00.PDF",
+      "formId": "5185",
+      "formFilename": "F36B-047-285-1424-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=5185",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=5185",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "ololmasani-mca-by-election-2022",
+      "title": "Ololmasani Member of County Assembly By-election",
+      "year": 2022,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Ololmasani",
+      "parentGeography": "Emurua Dikirr",
+      "county": "Narok",
+      "date": "2022-12-08",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-033-178-0888-000-00.PDF",
+      "formId": "5050",
+      "formFilename": "F36B-033-178-0888-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=5050",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=5050",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "south-gem-mca-by-election-2022",
+      "title": "South Gem Member of County Assembly By-election",
+      "year": 2022,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "South Gem",
+      "parentGeography": "Gem",
+      "county": "Siaya",
+      "date": "2022-12-08",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-041-235-1174-000-00.PDF",
+      "formId": "5125",
+      "formFilename": "F36B-041-235-1174-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=5125",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=5125",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "kabuchai-chwele-mca-by-election-2025",
+      "title": "Kabuchai/Chwele Member of County Assembly By-election",
+      "year": 2025,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Kabuchai/Chwele",
+      "parentGeography": "Kabuchai",
+      "county": "Bungoma",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-039-218-1085-000-00.PDF",
+      "formId": "2338",
+      "formFilename": "F36B-039-218-1085-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2338",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2338",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "fafi-mca-by-election-2025",
+      "title": "Fafi Member of County Assembly By-election",
+      "year": 2025,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Fafi",
+      "parentGeography": "Fafi",
+      "county": "Garissa",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-007-031-0155-000-00.PDF",
+      "formId": "2320",
+      "formFilename": "F36B-007-031-0155-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2320",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2320",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "purko-mca-by-election-2025",
+      "title": "Purko Member of County Assembly By-election",
+      "year": 2025,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Purko",
+      "parentGeography": "Kajiado Central",
+      "county": "Kajiado",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-034-184-0916-000-00.PDF",
+      "formId": "2335",
+      "formFilename": "F36B-034-184-0916-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2335",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2335",
+      "registeredVoters": 4848,
+      "ballotsCast": 3915,
+      "extractionStatus": "verified_from_form_image",
+      "candidates": [
+        {
+          "name": "Amos Maayiai Mpusia",
+          "party": "N/A",
+          "votes": 2085
+        },
+        {
+          "name": "Daniel Turpesio Naikuni",
+          "party": "N/A",
+          "votes": 298
+        },
+        {
+          "name": "Sanare Tipatet Saidimu",
+          "party": "N/A",
+          "votes": 1522
+        }
+      ]
+    },
+    {
+      "slug": "kisa-east-mca-by-election-2025",
+      "title": "Kisa East Member of County Assembly By-election",
+      "year": 2025,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Kisa East",
+      "parentGeography": "Khwisero",
+      "county": "Kakamega",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-037-208-1038-000-00.PDF",
+      "formId": "2337",
+      "formFilename": "F36B-037-208-1038-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2337",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2337",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "mumbuni-north-mca-by-election-2025",
+      "title": "Mumbuni North Member of County Assembly By-election",
+      "year": 2025,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Mumbuni North",
+      "parentGeography": "Machakos Town",
+      "county": "Machakos",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-016-081-0402-000-00.PDF",
+      "formId": "2323",
+      "formFilename": "F36B-016-081-0402-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2323",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2323",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "kariobangi-north-mca-by-election-2025",
+      "title": "Kariobangi North Member of County Assembly By-election",
+      "year": 2025,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Kariobangi North",
+      "parentGeography": "Embakasi North",
+      "county": "Nairobi City",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-047-283-1411-000-00.PDF",
+      "formId": "2344",
+      "formFilename": "F36B-047-283-1411-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2344",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2344",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "chemundu-kapng-etuny-mca-by-election-2025",
+      "title": "Chemundu/Kapng'etuny Member of County Assembly By-election",
+      "year": 2025,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Chemundu/Kapng'etuny",
+      "parentGeography": "Chesumei",
+      "county": "Nandi",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-029-154-0765-000-00.PDF",
+      "formId": "2327",
+      "formFilename": "F36B-029-154-0765-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2327",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2327",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "narok-town-mca-by-election-2025",
+      "title": "Narok Town Member of County Assembly By-election",
+      "year": 2025,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Narok Town",
+      "parentGeography": "Narok North",
+      "county": "Narok",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-033-179-0893-000-00.PDF",
+      "formId": "2334",
+      "formFilename": "F36B-033-179-0893-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2334",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2334",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "ekerenyo-mca-by-election-2025",
+      "title": "Ekerenyo Member of County Assembly By-election",
+      "year": 2025,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Ekerenyo",
+      "parentGeography": "North Mugirango",
+      "county": "Nyamira",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-046-272-1361-000-00.PDF",
+      "formId": "2342",
+      "formFilename": "F36B-046-272-1361-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2342",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2342",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "nyamaiya-mca-by-election-2025",
+      "title": "Nyamaiya Member of County Assembly By-election",
+      "year": 2025,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Nyamaiya",
+      "parentGeography": "West Mugirango",
+      "county": "Nyamira",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-046-271-1352-000-00.PDF",
+      "formId": "2341",
+      "formFilename": "F36B-046-271-1352-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2341",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2341",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "nyansiongo-mca-by-election-2025",
+      "title": "Nyansiongo Member of County Assembly By-election",
+      "year": 2025,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Nyansiongo",
+      "parentGeography": "Borabu",
+      "county": "Nyamira",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-046-273-1364-000-00.PDF",
+      "formId": "2343",
+      "formFilename": "F36B-046-273-1364-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2343",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2343",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "angata-nanyokie-mca-by-election-2025",
+      "title": "Angata Nanyokie Member of County Assembly By-election",
+      "year": 2025,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Angata Nanyokie",
+      "parentGeography": "Samburu North",
+      "county": "Samburu",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-025-134-0670-000-00.PDF",
+      "formId": "2326",
+      "formFilename": "F36B-025-134-0670-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2326",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2326",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "chewani-mca-by-election-2025",
+      "title": "Chewani Member of County Assembly By-election",
+      "year": 2025,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Chewani",
+      "parentGeography": "Galole",
+      "county": "Tana River",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-004-019-0094-000-00.PDF",
+      "formId": "2319",
+      "formFilename": "F36B-004-019-0094-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2319",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2319",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "lake-zone-mca-by-election-2025",
+      "title": "Lake Zone Member of County Assembly By-election",
+      "year": 2025,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Lake Zone",
+      "parentGeography": "Turkana North",
+      "county": "Turkana",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-023-123-0612-000-00.PDF",
+      "formId": "2324",
+      "formFilename": "F36B-023-123-0612-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2324",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2324",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "nanaam-mca-by-election-2025",
+      "title": "Nanaam Member of County Assembly By-election",
+      "year": 2025,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Nanaam",
+      "parentGeography": "Turkana West",
+      "county": "Turkana",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-023-124-0623-000-00.PDF",
+      "formId": "2325",
+      "formFilename": "F36B-023-124-0623-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2325",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2325",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "mbeere-north-mna-by-election-2025",
+      "title": "Mbeere North Member of National Assembly By-election",
+      "year": 2025,
+      "office": "Member of National Assembly",
+      "position": "MNA",
+      "geography": "Mbeere North",
+      "parentGeography": "Mbeere North",
+      "county": "Embu",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F35B-014-066-0000-000-00.PDF",
+      "formId": "2322",
+      "formFilename": "F35B-014-066-0000-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2322",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2322",
+      "registeredVoters": 55124,
+      "ballotsCast": 34134,
+      "extractionStatus": "verified_from_form_image",
+      "candidates": [
+        {
+          "name": "Lawrence Mwaniki Ereki",
+          "party": "N/A",
+          "votes": 113
+        },
+        {
+          "name": "Duncan Ireri Mbui",
+          "party": "N/A",
+          "votes": 2480
+        },
+        {
+          "name": "Isaac Ngiri Muringi",
+          "party": "N/A",
+          "votes": 84
+        },
+        {
+          "name": "Newton Karuki Ndwiga",
+          "party": "N/A",
+          "votes": 15308
+        },
+        {
+          "name": "Albert Murimi Ngari",
+          "party": "N/A",
+          "votes": 36
+        },
+        {
+          "name": "Daniel Ireri Ngari",
+          "party": "N/A",
+          "votes": 78
+        },
+        {
+          "name": "Leo Wa Muthende Njeru",
+          "party": "N/A",
+          "votes": 15802
+        },
+        {
+          "name": "Ruben Muriithi Njeru",
+          "party": "N/A",
+          "votes": 28
+        },
+        {
+          "name": "Simon Mwaura Waihario",
+          "party": "N/A",
+          "votes": 18
+        }
+      ]
+    },
+    {
+      "slug": "kasipul-mna-by-election-2025",
+      "title": "Kasipul Member of National Assembly By-election",
+      "year": 2025,
+      "office": "Member of National Assembly",
+      "position": "MNA",
+      "geography": "Kasipul",
+      "parentGeography": "Kasipul",
+      "county": "Homa Bay",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F35B-043-245-0000-000-00.PDF",
+      "formId": "2340",
+      "formFilename": "F35B-043-245-0000-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2340",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2340",
+      "registeredVoters": 67513,
+      "ballotsCast": 31323,
+      "extractionStatus": "verified_from_form_image",
+      "candidates": [
+        {
+          "name": "Abok Isaac Kiche",
+          "party": "N/A",
+          "votes": 201
+        },
+        {
+          "name": "Aroko Philip Nashon",
+          "party": "N/A",
+          "votes": 8476
+        },
+        {
+          "name": "Bior Robert Money",
+          "party": "N/A",
+          "votes": 519
+        },
+        {
+          "name": "Kotende Sam Rateng Okoth",
+          "party": "N/A",
+          "votes": 72
+        },
+        {
+          "name": "Okello Jesse Samson Owen",
+          "party": "N/A",
+          "votes": 55
+        },
+        {
+          "name": "Omondi Collins Okeyo",
+          "party": "N/A",
+          "votes": 4796
+        },
+        {
+          "name": "Ongondo Boyd Were",
+          "party": "ODM",
+          "votes": 16819
+        },
+        {
+          "name": "Ouma Jeazmen Linda Aoko",
+          "party": "N/A",
+          "votes": 26
+        },
+        {
+          "name": "Ouma Robert Ouko",
+          "party": "N/A",
+          "votes": 17
+        },
+        {
+          "name": "Oyoo Ishmael Omondi",
+          "party": "N/A",
+          "votes": 98
+        }
+      ]
+    },
+    {
+      "slug": "malava-mna-by-election-2025",
+      "title": "Malava Member of National Assembly By-election",
+      "year": 2025,
+      "office": "Member of National Assembly",
+      "position": "MNA",
+      "geography": "Malava",
+      "parentGeography": "Malava",
+      "county": "Kakamega",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F35B-037-201-0000-000-00.PDF",
+      "formId": "2336",
+      "formFilename": "F35B-037-201-0000-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2336",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2336",
+      "registeredVoters": 94417,
+      "ballotsCast": 43675,
+      "extractionStatus": "verified_from_form_image",
+      "candidates": [
+        {
+          "name": "James Shenachi Angatia",
+          "party": "N/A",
+          "votes": 243
+        },
+        {
+          "name": "Shiyavale Bruce Jason",
+          "party": "N/A",
+          "votes": 390
+        },
+        {
+          "name": "Joab Burudi Manyasi",
+          "party": "N/A",
+          "votes": 70
+        },
+        {
+          "name": "Edgar Busiega Mwanga",
+          "party": "N/A",
+          "votes": 209
+        },
+        {
+          "name": "Benjamin Nalwa",
+          "party": "N/A",
+          "votes": 215
+        },
+        {
+          "name": "David Athman Ndakwa",
+          "party": "N/A",
+          "votes": 21564
+        },
+        {
+          "name": "George Ngaira Oryuki",
+          "party": "N/A",
+          "votes": 148
+        },
+        {
+          "name": "Seth Musundi Panyako",
+          "party": "N/A",
+          "votes": 20210
+        },
+        {
+          "name": "Wilberforce Inda Tuvei",
+          "party": "N/A",
+          "votes": 626
+        }
+      ]
+    },
+    {
+      "slug": "magarini-mna-by-election-2025",
+      "title": "Magarini Member of National Assembly By-election",
+      "year": 2025,
+      "office": "Member of National Assembly",
+      "position": "MNA",
+      "geography": "Magarini",
+      "parentGeography": "Magarini",
+      "county": "Kilifi",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F35B-003-017-0000-000-00.PDF",
+      "formId": "2318",
+      "formFilename": "F35B-003-017-0000-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2318",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2318",
+      "registeredVoters": 80128,
+      "ballotsCast": 27808,
+      "extractionStatus": "verified_from_form_image",
+      "candidates": [
+        {
+          "name": "Sarah Wahito Gakahu",
+          "party": "N/A",
+          "votes": 12
+        },
+        {
+          "name": "Amos Katana Kalama",
+          "party": "N/A",
+          "votes": 182
+        },
+        {
+          "name": "Emmanuel Kitaso Kalama",
+          "party": "N/A",
+          "votes": 60
+        },
+        {
+          "name": "Hamadi Chadi Karisa",
+          "party": "N/A",
+          "votes": 138
+        },
+        {
+          "name": "Stanley Karisa Kenga",
+          "party": "N/A",
+          "votes": 8907
+        },
+        {
+          "name": "Harrison Garama Kombe",
+          "party": "N/A",
+          "votes": 17909
+        },
+        {
+          "name": "Jacob Themo Kwicha",
+          "party": "N/A",
+          "votes": 70
+        },
+        {
+          "name": "John Sulubu Masha",
+          "party": "N/A",
+          "votes": 10
+        },
+        {
+          "name": "Furaha Chengo Ngumbao",
+          "party": "N/A",
+          "votes": 227
+        },
+        {
+          "name": "Samuel Kombe Nzai",
+          "party": "N/A",
+          "votes": 58
+        }
+      ]
+    },
+    {
+      "slug": "banissa-mna-by-election-2025",
+      "title": "Banissa Member of National Assembly By-election",
+      "year": 2025,
+      "office": "Member of National Assembly",
+      "position": "MNA",
+      "geography": "Banissa",
+      "parentGeography": "Banissa",
+      "county": "Mandera",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F35B-009-040-0000-000-00.PDF",
+      "formId": "2321",
+      "formFilename": "F35B-009-040-0000-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2321",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2321",
+      "registeredVoters": 32703,
+      "ballotsCast": 11709,
+      "extractionStatus": "verified_from_form_image",
+      "candidates": [
+        {
+          "name": "Hassan Abdi Maalim",
+          "party": "N/A",
+          "votes": 10431
+        },
+        {
+          "name": "Mohamed Nuredin Maalim",
+          "party": "N/A",
+          "votes": 1240
+        }
+      ]
+    },
+    {
+      "slug": "ugunja-mna-by-election-2025",
+      "title": "Ugunja Member of National Assembly By-election",
+      "year": 2025,
+      "office": "Member of National Assembly",
+      "position": "MNA",
+      "geography": "Ugunja",
+      "parentGeography": "Ugunja",
+      "county": "Siaya",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F35B-041-233-0000-000-00.PDF",
+      "formId": "2339",
+      "formFilename": "F35B-041-233-0000-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2339",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2339",
+      "registeredVoters": 60114,
+      "ballotsCast": 15017,
+      "extractionStatus": "verified_from_form_image",
+      "candidates": [
+        {
+          "name": "Aketch Lilian Akinyi",
+          "party": "N/A",
+          "votes": 182
+        },
+        {
+          "name": "Ochiel Fredrick Odhiambo",
+          "party": "N/A",
+          "votes": 1200
+        },
+        {
+          "name": "Ochuka Oliver Ochieng",
+          "party": "N/A",
+          "votes": 56
+        },
+        {
+          "name": "Odhiambo Johannes Orodi Doy",
+          "party": "N/A",
+          "votes": 1819
+        },
+        {
+          "name": "Offiro Eric Ochieng",
+          "party": "N/A",
+          "votes": 91
+        },
+        {
+          "name": "Okumu Maurice Jumah",
+          "party": "N/A",
+          "votes": 381
+        },
+        {
+          "name": "Olengo Vincent Ywaya",
+          "party": "N/A",
+          "votes": 333
+        },
+        {
+          "name": "Omondi Chrisphine Oduor",
+          "party": "N/A",
+          "votes": 188
+        },
+        {
+          "name": "Omondi Moses Okoth",
+          "party": "N/A",
+          "votes": 9447
+        },
+        {
+          "name": "Otieno Benson Obol",
+          "party": "N/A",
+          "votes": 1171
+        }
+      ]
+    },
+    {
+      "slug": "baringo-central-sen-by-election-2025",
+      "title": "Baringo Central Senator By-election",
+      "year": 2025,
+      "office": "Senator",
+      "position": "SEN",
+      "geography": "Baringo Central",
+      "parentGeography": "Baringo Central",
+      "county": "Baringo",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F38B-030-159-0000-000-00.PDF",
+      "formId": "2330",
+      "formFilename": "F38B-030-159-0000-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2330",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2330",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "baringo-north-sen-by-election-2025",
+      "title": "Baringo North Senator By-election",
+      "year": 2025,
+      "office": "Senator",
+      "position": "SEN",
+      "geography": "Baringo North",
+      "parentGeography": "Baringo North",
+      "county": "Baringo",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F38B-030-158-0000-000-00.PDF",
+      "formId": "2329",
+      "formFilename": "F38B-030-158-0000-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2329",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2329",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "baringo-south-sen-by-election-2025",
+      "title": "Baringo South Senator By-election",
+      "year": 2025,
+      "office": "Senator",
+      "position": "SEN",
+      "geography": "Baringo South",
+      "parentGeography": "Baringo South",
+      "county": "Baringo",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F38B-030-160-0000-000-00.PDF",
+      "formId": "2331",
+      "formFilename": "F38B-030-160-0000-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2331",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2331",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "eldama-ravine-sen-by-election-2025",
+      "title": "Eldama Ravine Senator By-election",
+      "year": 2025,
+      "office": "Senator",
+      "position": "SEN",
+      "geography": "Eldama Ravine",
+      "parentGeography": "Eldama Ravine",
+      "county": "Baringo",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F38B-030-162-0000-000-00.PDF",
+      "formId": "2333",
+      "formFilename": "F38B-030-162-0000-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2333",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2333",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "mogotio-sen-by-election-2025",
+      "title": "Mogotio Senator By-election",
+      "year": 2025,
+      "office": "Senator",
+      "position": "SEN",
+      "geography": "Mogotio",
+      "parentGeography": "Mogotio",
+      "county": "Baringo",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F38B-030-161-0000-000-00.PDF",
+      "formId": "2332",
+      "formFilename": "F38B-030-161-0000-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2332",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2332",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "tiaty-sen-by-election-2025",
+      "title": "Tiaty Senator By-election",
+      "year": 2025,
+      "office": "Senator",
+      "position": "SEN",
+      "geography": "Tiaty",
+      "parentGeography": "Tiaty",
+      "county": "Baringo",
+      "date": "2025-11-27",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F38B-030-157-0000-000-00.PDF",
+      "formId": "2328",
+      "formFilename": "F38B-030-157-0000-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2328",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2328",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "evurore-mca-by-election-2026",
+      "title": "Evurore Member of County Assembly By-election",
+      "year": 2026,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Evurore",
+      "parentGeography": "Mbeere North",
+      "county": "Embu",
+      "date": "2026-02-26",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-014-066-0330-000-00.PDF",
+      "formId": "2594",
+      "formFilename": "F36B-014-066-0330-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2594",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2594",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "muminji-mca-by-election-2026",
+      "title": "Muminji Member of County Assembly By-election",
+      "year": 2026,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Muminji",
+      "parentGeography": "Mbeere North",
+      "county": "Embu",
+      "date": "2026-02-26",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-014-066-0329-000-00.PDF",
+      "formId": "2593",
+      "formFilename": "F36B-014-066-0329-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2593",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2593",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "west-kabras-mca-by-election-2026",
+      "title": "West Kabras Member of County Assembly By-election",
+      "year": 2026,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "West Kabras",
+      "parentGeography": "Malava",
+      "county": "Kakamega",
+      "date": "2026-02-26",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-037-201-1002-000-00.PDF",
+      "formId": "2595",
+      "formFilename": "F36B-037-201-1002-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2595",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2595",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "isiolo-south-mna-by-election-2026",
+      "title": "Isiolo South Member of National Assembly By-election",
+      "year": 2026,
+      "office": "Member of National Assembly",
+      "position": "MNA",
+      "geography": "Isiolo South",
+      "parentGeography": "Isiolo South",
+      "county": "Isiolo",
+      "date": "2026-02-26",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F35B-011-050-0000-000-00.PDF",
+      "formId": "2592",
+      "formFilename": "F35B-011-050-0000-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2592",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2592",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "endo-mca-by-election-2026",
+      "title": "Endo Member of County Assembly By-election",
+      "year": 2026,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Endo",
+      "parentGeography": "Marakwet East",
+      "county": "Elgeyo/Marakwet",
+      "date": "2026-05-14",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-028-147-0733-000-00.PDF",
+      "formId": "2813",
+      "formFilename": "F36B-028-147-0733-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2813",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2813",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "poro-mca-by-election-2026",
+      "title": "Poro Member of County Assembly By-election",
+      "year": 2026,
+      "office": "Member of County Assembly",
+      "position": "MCA",
+      "geography": "Poro",
+      "parentGeography": "Samburu West",
+      "county": "Samburu",
+      "date": "2026-05-14",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F36B-025-133-0665-000-00.PDF",
+      "formId": "2770",
+      "formFilename": "F36B-025-133-0665-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2770",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2770",
+      "registeredVoters": 0,
+      "ballotsCast": 0,
+      "extractionStatus": "official_form_pending_candidate_extraction",
+      "candidates": []
+    },
+    {
+      "slug": "emurua-dikirr-mna-by-election-2026",
+      "title": "Emurua Dikirr Member of National Assembly By-election",
+      "year": 2026,
+      "office": "Member of National Assembly",
+      "position": "MNA",
+      "geography": "Emurua Dikirr",
+      "parentGeography": "Emurua Dikirr",
+      "county": "Narok",
+      "date": "2026-05-14",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F35B-033-178-0000-000-00.PDF",
+      "formId": "2908",
+      "formFilename": "F35B-033-178-0000-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=2908",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=2908",
+      "registeredVoters": 44353,
+      "ballotsCast": 29538,
+      "extractionStatus": "verified_from_form_image",
+      "candidates": [
+        {
+          "name": "Cherono Desma",
+          "party": "N/A",
+          "votes": 80
+        },
+        {
+          "name": "David Kipsang Keter",
+          "party": "UDA",
+          "votes": 18266
+        },
+        {
+          "name": "Gideon Koech",
+          "party": "N/A",
+          "votes": 190
+        },
+        {
+          "name": "Kipronoh Rotich",
+          "party": "N/A",
+          "votes": 62
+        },
+        {
+          "name": "Vincent Kibet Rotich",
+          "party": "NVP",
+          "votes": 10760
+        }
+      ]
+    },
+    {
+      "slug": "ol-kalou-by-election-2026",
+      "title": "Ol Kalou Member of National Assembly By-election",
+      "year": 2026,
+      "office": "Member of National Assembly",
+      "position": "MNA",
+      "geography": "Ol Kalou",
+      "parentGeography": "Ol Kalou",
+      "county": "Nyandarua",
+      "date": "2026-07-16",
+      "status": "IEBC reported",
+      "sourceLabel": "IEBC Form B F35B-018-091-0000-000-00.PDF",
+      "formId": "6926",
+      "formFilename": "F35B-018-091-0000-000-00.PDF",
+      "downloadUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fdownload&id=6926",
+      "viewUrl": "https://forms.iebc.or.ke/index.php?r=site%2Fview-form&id=6926",
+      "registeredVoters": 73480,
+      "ballotsCast": 41656,
+      "extractionStatus": "verified_from_form_image",
+      "candidates": [
+        {
+          "name": "Sammy Douglas Kamau Waweru",
+          "party": "DCP",
+          "votes": 35440
+        },
+        {
+          "name": "Samuel Muchina Nyagah",
+          "party": "UDA",
+          "votes": 5450
+        },
+        {
+          "name": "Wilson Mwaniki Kigwa",
+          "party": "JP",
+          "votes": 198
+        },
+        {
+          "name": "Stephen Wanyoike Waithaka",
+          "party": "NLP",
+          "votes": 103
+        },
+        {
+          "name": "Timothy Kamau Kariuki",
+          "party": "PPM",
+          "votes": 51
+        },
+        {
+          "name": "Edwin Kariiri Muchiri",
+          "party": "PNU",
+          "votes": 28
+        },
+        {
+          "name": "Abdifatah Hussein Abdullahi",
+          "party": "FPK",
+          "votes": 19
+        },
+        {
+          "name": "Edward Mathenge Mwaniki",
+          "party": "KMM",
+          "votes": 16
+        },
+        {
+          "name": "Rachael Wangui Njoroge",
+          "party": "PDP",
+          "votes": 11
+        }
+      ]
+    }
+  ]
+}

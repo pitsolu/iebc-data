@@ -1,0 +1,8 @@
+#!/bin/bash
+
+ln -s ../.env .env
+./bin/clear
+./bin/to_csv/counties_data
+./bin/to_csv/pollstation_const
+./bin/create_tables
+./bin/db_up
