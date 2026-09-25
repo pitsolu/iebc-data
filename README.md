@@ -1,7 +1,7 @@
 IEBC Data
 ===
 
-*DO NOT* pull this data from this repo, please use parent repo [open-data](https://github.com/pitsolu/open-data)
+**DO NOT** pull this data from this repo, please use parent repo [open-data](https://github.com/pitsolu/open-data)
 
 ```sh
 .
