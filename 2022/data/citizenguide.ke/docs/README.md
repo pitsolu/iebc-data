@@ -3,7 +3,7 @@ Polling stations (IEBC 2022)
 
 Snapshot of polling stations for the 2022 general election cycle. This is a large table: the public page only shows lightweight totals. Download the full file for station-level research.
 
-Elections & democracy45,931 records in summary count
+Elections & democracy 45,931 records in summary count
 
 ## Key figures
 
@@ -49,7 +49,7 @@ CSV and JSON are non-proprietary, machine-readable formats. No account is needed
 
 ## Licence and reuse
 
-Free to reuse for any purpose with credit to CitizenGuide.KE as compiler and to the original publisher where known. Not an official Government of Kenya statistics release.
+Free to reuse for any purpose with credit to `CitizenGuide.KE` as compiler and to the original publisher where known. Not an official Government of Kenya statistics release.
 
 ## Sources
 
@@ -85,4 +85,4 @@ Free to reuse for any purpose with credit to CitizenGuide.KE as compiler and to 
 
 - [2022 election geography](https://www.citizenguide.ke/open-data/collections/2022-election-geography)
 
-CitizenGuide.KE is an independent guide. This dataset is a structured compilation of public information. It is not an official government statistics release. [Read the disclaimer](https://www.citizenguide.ke/disclaimer). [How we publish open data](https://www.citizenguide.ke/open-data/standards).
+`CitizenGuide.KE` is an independent guide. This dataset is a structured compilation of public information. It is not an official government statistics release. [Read the disclaimer](https://www.citizenguide.ke/disclaimer). [How we publish open data](https://www.citizenguide.ke/open-data/standards).

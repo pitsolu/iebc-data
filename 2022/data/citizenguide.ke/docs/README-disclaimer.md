@@ -1,13 +1,13 @@
 Disclaimer
 ===
 
-Important information about CitizenGuide.KE, the information we publish and how you should use it.
+Important information about `CitizenGuide.KE`, the information we publish and how you should use it.
 
-! **ImportantCitizenGuide.KE is an independent website. It is not a Government of Kenya website and does not represent any national or county government institution.**
+! **Important `CitizenGuide.KE` is an independent website. It is not a Government of Kenya website and does not represent any national or county government institution.**
 
 ## About CitizenGuide.KE
 
-CitizenGuide.KE is an independent civic information platform.
+`CitizenGuide.KE` is an independent civic information platform.
 
 We help people find and understand information about Kenya's government, public institutions, leaders, laws, public services and other civic matters.
 
@@ -15,7 +15,7 @@ We organise information from publicly available sources, including legislation, 
 
 ## We are not a government service
 
-CitizenGuide.KE does not provide or administer government services.
+`CitizenGuide.KE` does not provide or administer government services.
 
 We do not:
 
@@ -37,7 +37,7 @@ We aim to publish information that is accurate, clear and based on reliable publ
 
 Government information can change. This includes laws, regulations, office holders, procedures, forms, fees, deadlines, contact details and service requirements.
 
-There may be a delay between an official change and an update to CitizenGuide.KE.
+There may be a delay between an official change and an update to `CitizenGuide.KE.`
 
 For information that affects an application, payment, deadline, legal obligation or other important decision, check the latest information with the responsible public body.
 
@@ -45,11 +45,11 @@ For information that affects an application, payment, deadline, legal obligation
 
 We take reasonable steps to check the information we publish, but errors or omissions can occur.
 
-If you believe information on CitizenGuide.KE is incorrect, incomplete or out of date, you can [report a correction](https://www.citizenguide.ke/corrections).
+If you believe information on `CitizenGuide.KE` is incorrect, incomplete or out of date, you can [report a correction](https://www.citizenguide.ke/corrections).
 
 ## General information only
 
-Information on CitizenGuide.KE is provided for general civic and informational purposes.
+Information on `CitizenGuide.KE` is provided for general civic and informational purposes.
 
 It should not be treated as legal, financial, tax, immigration or other professional advice. Where professional advice is required, you should seek advice from an appropriately qualified person or contact the responsible public body.
 
@@ -59,10 +59,10 @@ We link to government websites and other external sources to help you find offic
 
 We do not control external websites and are not responsible for their content, availability, security, accessibility or privacy practices.
 
-Linking to an external website does not necessarily mean that CitizenGuide.KE endorses that website, organisation, product or service.
+Linking to an external website does not necessarily mean that `CitizenGuide.KE` endorses that website, organisation, product or service.
 
 ## Your responsibility
 
 You are responsible for checking information before relying on it for an important decision or official transaction.
 
-Our [terms and conditions](https://www.citizenguide.ke/terms) explain the terms that apply when you use CitizenGuide.KE.
+Our [terms and conditions](https://www.citizenguide.ke/terms) explain the terms that apply when you use `CitizenGuide.KE.`

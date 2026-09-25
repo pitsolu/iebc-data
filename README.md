@@ -1,7 +1,10 @@
 IEBC Data
 ===
 
+*DO NOT* pull this data from this repo, please use parent repo [open-data](https://github.com/pitsolu/open-data)
+
 ```sh
+.
 ├── 2013
 │   ├── bin
 │   │   ├── build
@@ -34,11 +37,12 @@ IEBC Data
 │   └── data
 │       ├── candidates
 │       │   ├── county-assembly-wards.csv.zip
-│       │   ├── gov.csv
-│       │   ├── LICENSE.md
+│       │   ├── docs
+│       │   │   ├── LICENSE.md
+│       │   │   └── README.md
+│       │   ├── governor.csv
 │       │   ├── national-assembly.csv
 │       │   ├── pres.csv
-│       │   ├── README.md
 │       │   ├── senate.csv
 │       │   └── women-rep.csv
 │       ├── ke-election-db-projection.json
@@ -50,12 +54,12 @@ IEBC Data
 ├── 2022
 │   └── data
 │       ├── citizenguide.ke
-│       │   ├── kenya-polling-stations-2026-09-24.zip
-│       │   ├── README-disclaimer.md
-│       │   ├── README.md
-│       │   └── README-toc.md
+│       │   ├── docs
+│       │   │   ├── README-disclaimer.md
+│       │   │   ├── README.md
+│       │   │   └── README-toc.md
+│       │   └── kenya-polling-stations-2026-09-24.zip
 │       └── kura254
-│           ├── kura254-by-elections-2026-09-11.json
 │           ├── kura254-constituencies-2026-09-11.json
 │           ├── kura254-counties-2026-09-11.json
 │           └── kura254-wards-2026-09-11.json
@@ -65,9 +69,9 @@ IEBC Data
 │   ├── pollingstations.tar.xz
 │   └── wards.tar.xz
 ├── history
+│   ├── kura254-by-elections-2026-09-11.json
 │   └── kura254-historical-results-2026-09-11.zip
 ├── iebc-data.sublime-project
 ├── iebc-data.sublime-workspace
 └── README.md
-
 ```
